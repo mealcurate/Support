@@ -1,0 +1,5156 @@
+[
+  {
+    "title": "Classic Scrambled Eggs",
+    "category": "Breakfast",
+    "ingredients": [
+      "4 large eggs",
+      "2 tablespoons butter",
+      "2 tablespoons milk",
+      "Salt and pepper to taste",
+      "Fresh chives for garnish"
+    ],
+    "steps": [
+      "Crack eggs into a bowl and whisk with milk, salt, and pepper",
+      "Melt butter in a non-stick skillet over medium-low heat",
+      "Pour in egg mixture and let sit for 20 seconds",
+      "Gently push eggs from edges to center, forming soft curds",
+      "Continue folding until just set but still slightly moist",
+      "Remove from heat and garnish with fresh chives"
+    ],
+    "nutrition": {
+      "calories": 280,
+      "protein": 18,
+      "fat": 22,
+      "carbs": 1,
+      "fiber": 0,
+      "servingSize": "2 servings"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=oICDPEXS168",
+    "imageURL": "https://img.youtube.com/vi/oICDPEXS168/hqdefault.jpg"
+  },
+  {
+    "title": "Overnight Oats with Berries",
+    "category": "Breakfast",
+    "ingredients": [
+      "1/2 cup rolled oats",
+      "1/2 cup milk",
+      "1/4 cup Greek yogurt",
+      "1 tablespoon chia seeds",
+      "1 tablespoon honey",
+      "1/2 cup mixed berries",
+      "1/4 teaspoon vanilla extract"
+    ],
+    "steps": [
+      "Combine oats, milk, yogurt, chia seeds, honey, and vanilla in a jar",
+      "Stir well to mix all ingredients",
+      "Cover and refrigerate overnight or at least 4 hours",
+      "In the morning, stir and top with fresh mixed berries",
+      "Add extra milk if a thinner consistency is desired"
+    ],
+    "nutrition": {
+      "calories": 320,
+      "protein": 14,
+      "fat": 8,
+      "carbs": 50,
+      "fiber": 7,
+      "sugar": 18,
+      "servingSize": "1 serving"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=HConIEuyLTk",
+    "imageURL": "https://img.youtube.com/vi/HConIEuyLTk/hqdefault.jpg"
+  },
+  {
+    "title": "Avocado Toast with Poached Egg",
+    "category": "Breakfast",
+    "ingredients": [
+      "2 slices sourdough bread",
+      "1 ripe avocado",
+      "2 eggs",
+      "1 tablespoon white vinegar",
+      "Red pepper flakes",
+      "Salt and pepper",
+      "Lemon juice"
+    ],
+    "steps": [
+      "Toast the sourdough bread until golden and crisp",
+      "Halve the avocado, remove the pit, and mash with a fork",
+      "Season mashed avocado with salt, pepper, and a squeeze of lemon",
+      "Bring a pot of water to a gentle simmer and add vinegar",
+      "Crack each egg into the simmering water and poach for 3-4 minutes",
+      "Spread avocado on toast, top with poached egg and red pepper flakes"
+    ],
+    "nutrition": {
+      "calories": 380,
+      "protein": 16,
+      "fat": 22,
+      "carbs": 32,
+      "fiber": 8,
+      "servingSize": "2 servings"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=GxL9fTvf4go",
+    "imageURL": "https://img.youtube.com/vi/GxL9fTvf4go/hqdefault.jpg"
+  },
+  {
+    "title": "Banana Pancakes",
+    "category": "Breakfast",
+    "ingredients": [
+      "2 ripe bananas",
+      "2 eggs",
+      "1/2 cup oat flour",
+      "1/2 teaspoon baking powder",
+      "1/4 teaspoon cinnamon",
+      "Butter for cooking",
+      "Maple syrup for serving"
+    ],
+    "steps": [
+      "Mash bananas in a bowl until smooth",
+      "Whisk in eggs until combined",
+      "Add oat flour, baking powder, and cinnamon and mix until just combined",
+      "Heat butter in a skillet over medium heat",
+      "Pour 1/4 cup batter per pancake and cook until bubbles form",
+      "Flip and cook another 1-2 minutes until golden",
+      "Serve with maple syrup"
+    ],
+    "nutrition": {
+      "calories": 290,
+      "protein": 10,
+      "fat": 8,
+      "carbs": 46,
+      "fiber": 4,
+      "sugar": 16,
+      "servingSize": "2 servings"
+    },
+    "imageURL": "https://www.themealdb.com/images/media/meals/sywswr1511383814.jpg",
+    "youtubeURL": "https://www.youtube.com/watch?v=kSKtb2Sv-_U"
+  },
+  {
+    "title": "Greek Yogurt Parfait",
+    "category": "Breakfast",
+    "ingredients": [
+      "1 cup Greek yogurt",
+      "1/3 cup granola",
+      "1/2 cup mixed berries",
+      "1 tablespoon honey",
+      "1 tablespoon sliced almonds",
+      "1/4 teaspoon vanilla extract"
+    ],
+    "steps": [
+      "Stir vanilla extract into Greek yogurt",
+      "Layer half the yogurt in a glass or bowl",
+      "Add half the granola and half the berries",
+      "Repeat with remaining yogurt, granola, and berries",
+      "Drizzle with honey and top with sliced almonds"
+    ],
+    "nutrition": {
+      "calories": 310,
+      "protein": 20,
+      "fat": 10,
+      "carbs": 38,
+      "fiber": 3,
+      "sugar": 22,
+      "servingSize": "1 serving"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=Bn9dA1no51M",
+    "imageURL": "https://img.youtube.com/vi/Bn9dA1no51M/hqdefault.jpg"
+  },
+  {
+    "title": "Veggie Breakfast Burrito",
+    "category": "Breakfast",
+    "ingredients": [
+      "2 large flour tortillas",
+      "4 eggs, scrambled",
+      "1/2 cup black beans",
+      "1/2 cup salsa",
+      "1/4 cup shredded cheddar",
+      "1/2 avocado, sliced",
+      "Salt and pepper"
+    ],
+    "steps": [
+      "Scramble eggs in a skillet with salt and pepper",
+      "Warm tortillas in a dry pan for 30 seconds each side",
+      "Warm black beans in a small pot",
+      "Layer eggs, beans, cheese, salsa, and avocado on each tortilla",
+      "Fold in sides and roll tightly",
+      "Cut in half and serve with extra salsa"
+    ],
+    "nutrition": {
+      "calories": 420,
+      "protein": 22,
+      "fat": 20,
+      "carbs": 38,
+      "fiber": 8,
+      "servingSize": "2 servings"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=P1q4QMdbqCY",
+    "imageURL": "https://img.youtube.com/vi/P1q4QMdbqCY/hqdefault.jpg"
+  },
+  {
+    "title": "French Toast",
+    "category": "Breakfast",
+    "ingredients": [
+      "4 slices thick bread",
+      "2 eggs",
+      "1/3 cup milk",
+      "1 teaspoon vanilla extract",
+      "1/2 teaspoon cinnamon",
+      "2 tablespoons butter",
+      "Maple syrup and powdered sugar"
+    ],
+    "steps": [
+      "Whisk together eggs, milk, vanilla, and cinnamon in a shallow dish",
+      "Melt butter in a skillet over medium heat",
+      "Dip each bread slice in egg mixture, coating both sides",
+      "Cook 2-3 minutes per side until golden brown",
+      "Dust with powdered sugar and serve with maple syrup"
+    ],
+    "nutrition": {
+      "calories": 350,
+      "protein": 12,
+      "fat": 14,
+      "carbs": 44,
+      "fiber": 2,
+      "sugar": 12,
+      "servingSize": "2 servings"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=lUdoSCY1f6E",
+    "imageURL": "https://img.youtube.com/vi/lUdoSCY1f6E/hqdefault.jpg"
+  },
+  {
+    "title": "Shakshuka",
+    "category": "Breakfast",
+    "ingredients": [
+      "4 eggs",
+      "1 can (14 oz) diced tomatoes",
+      "1 red bell pepper, diced",
+      "1 onion, diced",
+      "3 cloves garlic, minced",
+      "1 teaspoon cumin",
+      "1 teaspoon paprika",
+      "2 tablespoons olive oil",
+      "Fresh cilantro",
+      "Crusty bread for serving"
+    ],
+    "steps": [
+      "Heat olive oil in a deep skillet over medium heat",
+      "Sauté onion and bell pepper until softened, about 5 minutes",
+      "Add garlic, cumin, and paprika, cook 1 minute",
+      "Pour in diced tomatoes and simmer for 10 minutes",
+      "Make 4 wells in the sauce and crack an egg into each",
+      "Cover and cook 5-7 minutes until egg whites are set",
+      "Garnish with cilantro and serve with crusty bread"
+    ],
+    "nutrition": {
+      "calories": 280,
+      "protein": 16,
+      "fat": 16,
+      "carbs": 18,
+      "fiber": 4,
+      "servingSize": "2 servings"
+    },
+    "imageURL": "https://www.themealdb.com/images/media/meals/g373701551450225.jpg",
+    "youtubeURL": "https://www.youtube.com/watch?v=C-3_jYrfdBU"
+  },
+  {
+    "title": "Blueberry Muffins",
+    "category": "Breakfast",
+    "ingredients": [
+      "2 cups all-purpose flour",
+      "3/4 cup sugar",
+      "1/3 cup vegetable oil",
+      "1 egg",
+      "1/2 cup milk",
+      "2 teaspoons baking powder",
+      "1/2 teaspoon salt",
+      "1 cup fresh blueberries"
+    ],
+    "steps": [
+      "Preheat oven to 375°F and line a muffin tin with paper liners",
+      "Mix flour, sugar, baking powder, and salt in a large bowl",
+      "Whisk oil, egg, and milk in a separate bowl",
+      "Pour wet ingredients into dry and stir until just combined",
+      "Gently fold in blueberries",
+      "Divide batter among 12 muffin cups",
+      "Bake 20-25 minutes until golden and a toothpick comes out clean"
+    ],
+    "nutrition": {
+      "calories": 195,
+      "protein": 3,
+      "fat": 7,
+      "carbs": 30,
+      "fiber": 1,
+      "sugar": 14,
+      "servingSize": "12 muffins"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=298pJ8G3Dj8",
+    "imageURL": "https://img.youtube.com/vi/298pJ8G3Dj8/hqdefault.jpg"
+  },
+  {
+    "title": "Egg and Cheese Bagel",
+    "category": "Breakfast",
+    "ingredients": [
+      "2 bagels, halved",
+      "4 eggs",
+      "2 slices American cheese",
+      "4 slices bacon",
+      "1 tablespoon butter",
+      "Salt and pepper"
+    ],
+    "steps": [
+      "Cook bacon in a skillet until crispy, set aside on paper towels",
+      "Toast bagel halves until golden",
+      "Melt butter in the skillet over medium heat",
+      "Fry eggs to desired doneness, season with salt and pepper",
+      "Place cheese on the bottom bagel half",
+      "Top with eggs and bacon, close with top half"
+    ],
+    "nutrition": {
+      "calories": 480,
+      "protein": 26,
+      "fat": 24,
+      "carbs": 40,
+      "fiber": 2,
+      "servingSize": "2 servings"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=RKR8dg4msRY",
+    "imageURL": "https://img.youtube.com/vi/RKR8dg4msRY/hqdefault.jpg"
+  },
+  {
+    "title": "Chia Seed Pudding",
+    "category": "Breakfast",
+    "ingredients": [
+      "1/4 cup chia seeds",
+      "1 cup coconut milk",
+      "1 tablespoon maple syrup",
+      "1/2 teaspoon vanilla extract",
+      "Fresh mango, diced",
+      "Toasted coconut flakes"
+    ],
+    "steps": [
+      "Whisk chia seeds, coconut milk, maple syrup, and vanilla in a bowl",
+      "Stir well to prevent clumping",
+      "Cover and refrigerate for at least 4 hours or overnight",
+      "Stir before serving to break up any clumps",
+      "Top with diced mango and toasted coconut flakes"
+    ],
+    "nutrition": {
+      "calories": 280,
+      "protein": 6,
+      "fat": 18,
+      "carbs": 24,
+      "fiber": 10,
+      "servingSize": "1 serving"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=Hl_v94H4Q0s",
+    "imageURL": "https://img.youtube.com/vi/Hl_v94H4Q0s/hqdefault.jpg"
+  },
+  {
+    "title": "Breakfast Quesadilla",
+    "category": "Breakfast",
+    "ingredients": [
+      "2 flour tortillas",
+      "3 eggs, scrambled",
+      "1/2 cup shredded cheddar",
+      "1/4 cup diced bell pepper",
+      "2 tablespoons diced onion",
+      "Salsa for dipping",
+      "1 tablespoon butter"
+    ],
+    "steps": [
+      "Scramble eggs with bell pepper and onion",
+      "Place a tortilla in a skillet over medium heat",
+      "Sprinkle half the cheese on the tortilla",
+      "Add scrambled eggs and remaining cheese",
+      "Top with second tortilla and press down gently",
+      "Cook 2 minutes per side until golden and cheese melts",
+      "Cut into wedges and serve with salsa"
+    ],
+    "nutrition": {
+      "calories": 420,
+      "protein": 24,
+      "fat": 22,
+      "carbs": 30,
+      "fiber": 2,
+      "servingSize": "2 servings"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=j2z1ABDaaxg",
+    "imageURL": "https://img.youtube.com/vi/j2z1ABDaaxg/hqdefault.jpg"
+  },
+  {
+    "title": "Smoked Salmon Bagel",
+    "category": "Breakfast",
+    "ingredients": [
+      "2 bagels, halved",
+      "4 oz smoked salmon",
+      "4 tablespoons cream cheese",
+      "2 tablespoons capers",
+      "Thinly sliced red onion",
+      "Fresh dill",
+      "Lemon wedges"
+    ],
+    "steps": [
+      "Toast bagel halves until golden",
+      "Spread cream cheese generously on each half",
+      "Layer smoked salmon on top",
+      "Garnish with capers, red onion slices, and fresh dill",
+      "Squeeze lemon over the top and serve"
+    ],
+    "nutrition": {
+      "calories": 360,
+      "protein": 20,
+      "fat": 14,
+      "carbs": 38,
+      "fiber": 2,
+      "servingSize": "2 servings"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=p2l5D8sa7Q4",
+    "imageURL": "https://img.youtube.com/vi/p2l5D8sa7Q4/hqdefault.jpg"
+  },
+  {
+    "title": "Steel-Cut Oatmeal",
+    "category": "Breakfast",
+    "ingredients": [
+      "1 cup steel-cut oats",
+      "3 cups water",
+      "1/2 cup milk",
+      "2 tablespoons brown sugar",
+      "1/2 teaspoon cinnamon",
+      "Sliced banana",
+      "Chopped walnuts"
+    ],
+    "steps": [
+      "Bring water to a boil in a medium saucepan",
+      "Stir in steel-cut oats and reduce heat to low",
+      "Simmer for 20-25 minutes, stirring occasionally",
+      "Stir in milk, brown sugar, and cinnamon",
+      "Cook 2 more minutes until creamy",
+      "Top with sliced banana and chopped walnuts"
+    ],
+    "nutrition": {
+      "calories": 310,
+      "protein": 10,
+      "fat": 8,
+      "carbs": 52,
+      "fiber": 5,
+      "servingSize": "2 servings"
+    },
+    "imageURL": "https://www.themealdb.com/images/media/meals/c400ok1764439058.jpg",
+    "youtubeURL": "https://www.youtube.com/watch?v=kkrRFWN4LG4"
+  },
+  {
+    "title": "Egg Muffin Cups",
+    "category": "Breakfast",
+    "ingredients": [
+      "8 eggs",
+      "1/2 cup diced ham",
+      "1/4 cup diced bell pepper",
+      "1/4 cup shredded cheddar",
+      "2 tablespoons milk",
+      "Salt and pepper",
+      "Cooking spray"
+    ],
+    "steps": [
+      "Preheat oven to 375°F and spray a muffin tin with cooking spray",
+      "Whisk eggs with milk, salt, and pepper",
+      "Divide ham, bell pepper, and cheese among 8 muffin cups",
+      "Pour egg mixture evenly into each cup",
+      "Bake for 18-20 minutes until eggs are set",
+      "Let cool 2 minutes before removing from tin",
+      "Store extras in the fridge for up to 4 days"
+    ],
+    "nutrition": {
+      "calories": 140,
+      "protein": 12,
+      "fat": 9,
+      "carbs": 1,
+      "fiber": 0,
+      "servingSize": "8 cups"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=OqwV4ShhEBY",
+    "imageURL": "https://img.youtube.com/vi/OqwV4ShhEBY/hqdefault.jpg"
+  },
+  {
+    "title": "Acai Bowl",
+    "category": "Breakfast",
+    "ingredients": [
+      "2 acai packets, frozen",
+      "1 frozen banana",
+      "1/2 cup frozen blueberries",
+      "1/4 cup almond milk",
+      "Granola for topping",
+      "Sliced strawberries",
+      "Drizzle of honey"
+    ],
+    "steps": [
+      "Blend acai packets, banana, blueberries, and almond milk until thick",
+      "Pour into a bowl — should be very thick like soft serve",
+      "Top with granola, sliced strawberries, and any other toppings",
+      "Drizzle with honey and serve immediately"
+    ],
+    "nutrition": {
+      "calories": 330,
+      "protein": 6,
+      "fat": 8,
+      "carbs": 62,
+      "fiber": 10,
+      "sugar": 32,
+      "servingSize": "1 serving"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=_iQ-awRgcCI",
+    "imageURL": "https://img.youtube.com/vi/_iQ-awRgcCI/hqdefault.jpg"
+  },
+  {
+    "title": "Hash Brown Casserole",
+    "category": "Breakfast",
+    "ingredients": [
+      "1 bag (30 oz) frozen hash browns, thawed",
+      "1 can cream of chicken soup",
+      "1 cup sour cream",
+      "2 cups shredded cheddar",
+      "1/2 cup melted butter",
+      "1/2 teaspoon garlic powder",
+      "Salt and pepper"
+    ],
+    "steps": [
+      "Preheat oven to 350°F and grease a 9x13 baking dish",
+      "Mix soup, sour cream, 1.5 cups cheese, butter, garlic powder, salt, and pepper",
+      "Fold in hash browns until well coated",
+      "Spread mixture into baking dish",
+      "Top with remaining cheese",
+      "Bake 45-50 minutes until bubbly and golden on top",
+      "Let cool 5 minutes before serving"
+    ],
+    "nutrition": {
+      "calories": 380,
+      "protein": 12,
+      "fat": 26,
+      "carbs": 24,
+      "fiber": 2,
+      "servingSize": "8 servings"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=_VE0mdLtd5g",
+    "imageURL": "https://img.youtube.com/vi/_VE0mdLtd5g/hqdefault.jpg"
+  },
+  {
+    "title": "Cinnamon Roll Bake",
+    "category": "Breakfast",
+    "ingredients": [
+      "2 cans refrigerated cinnamon rolls with icing",
+      "4 eggs",
+      "1/2 cup heavy cream",
+      "2 teaspoons cinnamon",
+      "1 teaspoon vanilla extract",
+      "1/4 cup maple syrup"
+    ],
+    "steps": [
+      "Preheat oven to 375°F and grease a 9x13 baking dish",
+      "Cut each cinnamon roll into quarters",
+      "Arrange pieces in the baking dish",
+      "Whisk eggs, cream, cinnamon, vanilla, and maple syrup",
+      "Pour mixture over cinnamon roll pieces",
+      "Bake 25-30 minutes until golden and set in center",
+      "Drizzle with the included icing and serve warm"
+    ],
+    "nutrition": {
+      "calories": 320,
+      "protein": 6,
+      "fat": 14,
+      "carbs": 44,
+      "fiber": 1,
+      "sugar": 22,
+      "servingSize": "8 servings"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=DPUCGadbC0Q",
+    "imageURL": "https://img.youtube.com/vi/DPUCGadbC0Q/hqdefault.jpg"
+  },
+  {
+    "title": "Breakfast Smoothie",
+    "category": "Breakfast",
+    "ingredients": [
+      "1 banana",
+      "1 cup spinach",
+      "1/2 cup frozen mango",
+      "1/2 cup Greek yogurt",
+      "1 cup almond milk",
+      "1 tablespoon flaxseed",
+      "1 tablespoon honey"
+    ],
+    "steps": [
+      "Add almond milk and spinach to blender, blend until smooth",
+      "Add banana, mango, yogurt, flaxseed, and honey",
+      "Blend until completely smooth and creamy",
+      "Pour into a glass and serve immediately",
+      "Add ice if a thicker consistency is desired"
+    ],
+    "nutrition": {
+      "calories": 280,
+      "protein": 12,
+      "fat": 6,
+      "carbs": 48,
+      "fiber": 5,
+      "sugar": 30,
+      "servingSize": "1 serving"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=RS-nrbwkfUI",
+    "imageURL": "https://img.youtube.com/vi/RS-nrbwkfUI/hqdefault.jpg"
+  },
+  {
+    "title": "Huevos Rancheros",
+    "category": "Breakfast",
+    "ingredients": [
+      "4 corn tortillas",
+      "4 eggs",
+      "1 can (15 oz) black beans",
+      "1 cup salsa roja",
+      "1/2 cup queso fresco, crumbled",
+      "1 avocado, sliced",
+      "Fresh cilantro",
+      "2 tablespoons vegetable oil"
+    ],
+    "steps": [
+      "Warm black beans in a small pot with a splash of water",
+      "Fry tortillas in oil until slightly crispy, drain on paper towels",
+      "Fry eggs sunny-side up in the same skillet",
+      "Place tortillas on plates, spread beans on each",
+      "Top each with a fried egg",
+      "Spoon salsa over the eggs",
+      "Garnish with queso fresco, avocado, and cilantro"
+    ],
+    "nutrition": {
+      "calories": 390,
+      "protein": 18,
+      "fat": 20,
+      "carbs": 36,
+      "fiber": 10,
+      "servingSize": "2 servings"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=aUTN9PxleFc",
+    "imageURL": "https://img.youtube.com/vi/aUTN9PxleFc/hqdefault.jpg"
+  },
+  {
+    "title": "Chicken Caesar Salad",
+    "category": "Lunch",
+    "ingredients": [
+      "2 boneless chicken breasts",
+      "1 head romaine lettuce",
+      "1/2 cup Caesar dressing",
+      "1/3 cup grated Parmesan",
+      "1 cup croutons",
+      "2 tablespoons olive oil",
+      "Salt and pepper"
+    ],
+    "steps": [
+      "Season chicken with salt and pepper",
+      "Heat olive oil in a skillet over medium-high heat",
+      "Cook chicken 6-7 minutes per side until cooked through",
+      "Let rest 5 minutes, then slice into strips",
+      "Chop romaine and place in a large bowl",
+      "Toss with Caesar dressing and half the Parmesan",
+      "Top with chicken, croutons, and remaining Parmesan"
+    ],
+    "nutrition": {
+      "calories": 420,
+      "protein": 38,
+      "fat": 24,
+      "carbs": 14,
+      "fiber": 3,
+      "servingSize": "2 servings"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=PoXacqxFi_Q",
+    "imageURL": "https://img.youtube.com/vi/PoXacqxFi_Q/hqdefault.jpg"
+  },
+  {
+    "title": "Turkey and Avocado Wrap",
+    "category": "Lunch",
+    "ingredients": [
+      "2 large flour tortillas",
+      "6 oz sliced turkey breast",
+      "1 avocado, sliced",
+      "1/2 cup shredded lettuce",
+      "2 slices Swiss cheese",
+      "2 tablespoons mustard",
+      "4 slices tomato"
+    ],
+    "steps": [
+      "Warm tortillas in a dry skillet for 30 seconds each side",
+      "Spread mustard evenly over each tortilla",
+      "Layer turkey, cheese, avocado, tomato, and lettuce",
+      "Fold in the sides, then roll tightly from bottom to top",
+      "Cut diagonally in half and serve"
+    ],
+    "nutrition": {
+      "calories": 450,
+      "protein": 32,
+      "fat": 22,
+      "carbs": 34,
+      "fiber": 6,
+      "servingSize": "2 servings"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=RYOaNLsrn1o",
+    "imageURL": "https://img.youtube.com/vi/RYOaNLsrn1o/hqdefault.jpg"
+  },
+  {
+    "title": "Quinoa Buddha Bowl",
+    "category": "Lunch",
+    "ingredients": [
+      "1 cup quinoa",
+      "1 can chickpeas, drained",
+      "1 cup roasted sweet potato cubes",
+      "1 avocado, sliced",
+      "1 cup baby spinach",
+      "1/4 cup tahini",
+      "2 tablespoons lemon juice",
+      "1 tablespoon olive oil",
+      "Salt and pepper"
+    ],
+    "steps": [
+      "Cook quinoa according to package directions",
+      "Toss chickpeas with olive oil, salt, and pepper",
+      "Roast chickpeas at 400°F for 20 minutes until crispy",
+      "Whisk tahini with lemon juice and 2 tablespoons water",
+      "Divide quinoa between bowls",
+      "Arrange sweet potato, chickpeas, avocado, and spinach on top",
+      "Drizzle with tahini dressing"
+    ],
+    "nutrition": {
+      "calories": 480,
+      "protein": 18,
+      "fat": 20,
+      "carbs": 58,
+      "fiber": 12,
+      "servingSize": "2 servings"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=AlSvyLG1etI",
+    "imageURL": "https://img.youtube.com/vi/AlSvyLG1etI/hqdefault.jpg"
+  },
+  {
+    "title": "Caprese Panini",
+    "category": "Lunch",
+    "ingredients": [
+      "4 slices ciabatta bread",
+      "8 oz fresh mozzarella, sliced",
+      "2 large tomatoes, sliced",
+      "Fresh basil leaves",
+      "2 tablespoons balsamic glaze",
+      "1 tablespoon olive oil",
+      "Salt and pepper"
+    ],
+    "steps": [
+      "Brush one side of each bread slice with olive oil",
+      "Layer mozzarella, tomato, and basil on bread",
+      "Season with salt and pepper, drizzle with balsamic glaze",
+      "Close sandwiches and cook in a panini press or skillet",
+      "Cook 3-4 minutes per side until crispy and cheese melts",
+      "Cut in half and serve warm"
+    ],
+    "nutrition": {
+      "calories": 390,
+      "protein": 22,
+      "fat": 18,
+      "carbs": 36,
+      "fiber": 2,
+      "servingSize": "2 servings"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=ojf1KlAoF_8",
+    "imageURL": "https://img.youtube.com/vi/ojf1KlAoF_8/hqdefault.jpg"
+  },
+  {
+    "title": "Tuna Salad Sandwich",
+    "category": "Lunch",
+    "ingredients": [
+      "2 cans tuna, drained",
+      "3 tablespoons mayonnaise",
+      "1 tablespoon Dijon mustard",
+      "1/4 cup diced celery",
+      "2 tablespoons diced red onion",
+      "4 slices whole wheat bread",
+      "Lettuce and tomato slices"
+    ],
+    "steps": [
+      "Flake tuna into a bowl",
+      "Mix in mayonnaise, mustard, celery, and red onion",
+      "Season with salt and pepper to taste",
+      "Divide tuna salad between two bread slices",
+      "Top with lettuce and tomato",
+      "Close sandwiches and cut diagonally"
+    ],
+    "nutrition": {
+      "calories": 380,
+      "protein": 32,
+      "fat": 16,
+      "carbs": 28,
+      "fiber": 4,
+      "servingSize": "2 servings"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=9WcwPXkceqk",
+    "imageURL": "https://img.youtube.com/vi/9WcwPXkceqk/hqdefault.jpg"
+  },
+  {
+    "title": "Greek Pita Pocket",
+    "category": "Lunch",
+    "ingredients": [
+      "2 whole wheat pitas, halved",
+      "1 cup cooked chicken, shredded",
+      "1/2 cucumber, diced",
+      "1/2 cup cherry tomatoes, halved",
+      "1/4 cup Kalamata olives, sliced",
+      "1/4 cup feta cheese",
+      "3 tablespoons tzatziki sauce"
+    ],
+    "steps": [
+      "Warm pita halves in a dry skillet",
+      "Mix chicken, cucumber, tomatoes, olives, and feta",
+      "Spread tzatziki inside each pita pocket",
+      "Fill pitas with the chicken mixture",
+      "Serve immediately"
+    ],
+    "nutrition": {
+      "calories": 360,
+      "protein": 28,
+      "fat": 14,
+      "carbs": 32,
+      "fiber": 4,
+      "servingSize": "2 servings"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=vTc8GMGuDLU",
+    "imageURL": "https://img.youtube.com/vi/vTc8GMGuDLU/hqdefault.jpg"
+  },
+  {
+    "title": "Black Bean Tacos",
+    "category": "Lunch",
+    "ingredients": [
+      "1 can (15 oz) black beans, drained",
+      "8 small corn tortillas",
+      "1 cup shredded lettuce",
+      "1/2 cup pico de gallo",
+      "1/2 avocado, sliced",
+      "1/4 cup sour cream",
+      "1 teaspoon cumin",
+      "1/2 teaspoon chili powder"
+    ],
+    "steps": [
+      "Heat black beans in a small pot with cumin and chili powder",
+      "Mash beans slightly with a fork, leaving some whole",
+      "Warm tortillas in a dry skillet",
+      "Spread bean mixture on each tortilla",
+      "Top with lettuce, pico de gallo, avocado, and sour cream"
+    ],
+    "nutrition": {
+      "calories": 340,
+      "protein": 14,
+      "fat": 10,
+      "carbs": 52,
+      "fiber": 14,
+      "servingSize": "2 servings"
+    },
+    "imageURL": "https://www.themealdb.com/images/media/meals/uvuyxu1503067369.jpg",
+    "youtubeURL": "https://www.youtube.com/watch?v=N4EdUt0Ou48"
+  },
+  {
+    "title": "Chicken Salad Lettuce Wraps",
+    "category": "Lunch",
+    "ingredients": [
+      "2 cups cooked chicken, diced",
+      "1/4 cup Greek yogurt",
+      "1 tablespoon Dijon mustard",
+      "1/4 cup dried cranberries",
+      "1/4 cup diced celery",
+      "2 tablespoons chopped pecans",
+      "8 butter lettuce leaves",
+      "Salt and pepper"
+    ],
+    "steps": [
+      "Mix chicken, yogurt, mustard, cranberries, celery, and pecans",
+      "Season with salt and pepper",
+      "Spoon chicken salad into lettuce leaves",
+      "Roll or fold lettuce around the filling",
+      "Serve as a light, low-carb lunch"
+    ],
+    "nutrition": {
+      "calories": 280,
+      "protein": 30,
+      "fat": 10,
+      "carbs": 16,
+      "fiber": 2,
+      "servingSize": "2 servings"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=E9mjESQrWQg",
+    "imageURL": "https://img.youtube.com/vi/E9mjESQrWQg/hqdefault.jpg"
+  },
+  {
+    "title": "Veggie Quesadilla",
+    "category": "Lunch",
+    "ingredients": [
+      "2 flour tortillas",
+      "1 cup shredded Mexican cheese blend",
+      "1/2 cup sautéed mushrooms",
+      "1/2 cup diced bell pepper",
+      "1/4 cup corn kernels",
+      "2 tablespoons diced jalapeño",
+      "Sour cream and salsa for serving"
+    ],
+    "steps": [
+      "Sauté mushrooms and bell pepper until tender",
+      "Place a tortilla in a skillet over medium heat",
+      "Sprinkle cheese evenly, add vegetables and jalapeño",
+      "Top with second tortilla",
+      "Cook 2-3 minutes per side until golden and cheese melts",
+      "Cut into wedges and serve with sour cream and salsa"
+    ],
+    "nutrition": {
+      "calories": 400,
+      "protein": 18,
+      "fat": 22,
+      "carbs": 34,
+      "fiber": 3,
+      "servingSize": "2 servings"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=hSJaA9tm1QE",
+    "imageURL": "https://img.youtube.com/vi/hSJaA9tm1QE/hqdefault.jpg"
+  },
+  {
+    "title": "Mediterranean Grain Bowl",
+    "category": "Lunch",
+    "ingredients": [
+      "1 cup cooked farro",
+      "1/2 cup roasted red peppers",
+      "1/2 cup cucumber, diced",
+      "1/4 cup hummus",
+      "1/4 cup feta cheese",
+      "2 tablespoons olive oil",
+      "1 tablespoon lemon juice",
+      "Handful of fresh mint"
+    ],
+    "steps": [
+      "Divide farro between bowls",
+      "Arrange roasted peppers and cucumber on top",
+      "Add a generous dollop of hummus",
+      "Crumble feta over the bowl",
+      "Drizzle with olive oil and lemon juice",
+      "Garnish with fresh mint leaves"
+    ],
+    "nutrition": {
+      "calories": 380,
+      "protein": 14,
+      "fat": 18,
+      "carbs": 44,
+      "fiber": 6,
+      "servingSize": "2 servings"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=Wk4kr_Imq74",
+    "imageURL": "https://img.youtube.com/vi/Wk4kr_Imq74/hqdefault.jpg"
+  },
+  {
+    "title": "BLT Sandwich",
+    "category": "Lunch",
+    "ingredients": [
+      "6 slices thick-cut bacon",
+      "4 slices sourdough bread",
+      "2 tablespoons mayonnaise",
+      "4 leaves butter lettuce",
+      "2 large tomatoes, sliced",
+      "Salt and pepper"
+    ],
+    "steps": [
+      "Cook bacon until crispy, drain on paper towels",
+      "Toast bread until golden",
+      "Spread mayonnaise on each bread slice",
+      "Layer lettuce, tomato, and bacon on two slices",
+      "Season tomatoes with salt and pepper",
+      "Top with remaining bread and cut diagonally"
+    ],
+    "nutrition": {
+      "calories": 420,
+      "protein": 16,
+      "fat": 26,
+      "carbs": 32,
+      "fiber": 2,
+      "servingSize": "2 servings"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=aYjMYocx_ec",
+    "imageURL": "https://img.youtube.com/vi/aYjMYocx_ec/hqdefault.jpg"
+  },
+  {
+    "title": "Egg Drop Soup",
+    "category": "Lunch",
+    "ingredients": [
+      "4 cups chicken broth",
+      "2 eggs, beaten",
+      "1 tablespoon cornstarch",
+      "2 tablespoons water",
+      "1 teaspoon sesame oil",
+      "2 green onions, sliced",
+      "Salt and white pepper"
+    ],
+    "steps": [
+      "Bring chicken broth to a boil",
+      "Mix cornstarch with water to make a slurry",
+      "Stir slurry into boiling broth until slightly thickened",
+      "Reduce heat to a gentle simmer",
+      "Slowly drizzle beaten eggs into the soup while stirring in one direction",
+      "Add sesame oil and season with salt and white pepper",
+      "Garnish with sliced green onions"
+    ],
+    "nutrition": {
+      "calories": 120,
+      "protein": 10,
+      "fat": 6,
+      "carbs": 6,
+      "fiber": 0,
+      "servingSize": "2 servings"
+    },
+    "imageURL": "https://www.themealdb.com/images/media/meals/1529446137.jpg",
+    "youtubeURL": "https://www.youtube.com/watch?v=9XpzHm9QpZg"
+  },
+  {
+    "title": "Falafel Wrap",
+    "category": "Lunch",
+    "ingredients": [
+      "8 prepared falafel balls",
+      "2 large pita breads",
+      "1/2 cup tahini sauce",
+      "1 cup shredded lettuce",
+      "1/2 cup diced tomatoes",
+      "1/4 cup pickled turnips",
+      "Hot sauce to taste"
+    ],
+    "steps": [
+      "Warm falafel according to package directions",
+      "Warm pita breads briefly",
+      "Spread tahini sauce inside each pita",
+      "Add falafel balls, lettuce, tomatoes, and pickled turnips",
+      "Drizzle with hot sauce if desired",
+      "Wrap and serve immediately"
+    ],
+    "nutrition": {
+      "calories": 440,
+      "protein": 16,
+      "fat": 20,
+      "carbs": 52,
+      "fiber": 8,
+      "servingSize": "2 servings"
+    },
+    "imageURL": "https://www.themealdb.com/images/media/meals/u5e9qq1763795441.jpg",
+    "youtubeURL": "https://www.youtube.com/watch?v=NZcWedPKysk"
+  },
+  {
+    "title": "Grilled Cheese and Tomato Soup",
+    "category": "Lunch",
+    "ingredients": [
+      "4 slices sourdough bread",
+      "4 slices cheddar cheese",
+      "2 tablespoons butter",
+      "1 can condensed tomato soup",
+      "1 cup milk",
+      "Salt and pepper"
+    ],
+    "steps": [
+      "Make grilled cheese: butter bread, add cheese, cook in skillet 2-3 minutes per side",
+      "Heat tomato soup with milk in a saucepan",
+      "Season soup with salt and pepper",
+      "Cut grilled cheese sandwiches diagonally",
+      "Serve sandwiches alongside bowls of warm soup",
+      "Dip and enjoy"
+    ],
+    "nutrition": {
+      "calories": 480,
+      "protein": 18,
+      "fat": 26,
+      "carbs": 44,
+      "fiber": 2,
+      "servingSize": "2 servings"
+    },
+    "imageURL": "https://www.themealdb.com/images/media/meals/stpuws1511191310.jpg",
+    "youtubeURL": "https://www.youtube.com/watch?v=lBhwjjUiFk4"
+  },
+  {
+    "title": "Cobb Salad",
+    "category": "Lunch",
+    "ingredients": [
+      "4 cups mixed greens",
+      "2 hard-boiled eggs, chopped",
+      "4 slices bacon, crumbled",
+      "1 avocado, diced",
+      "1/2 cup cherry tomatoes, halved",
+      "1/4 cup blue cheese crumbles",
+      "1 cup grilled chicken, diced",
+      "Ranch dressing"
+    ],
+    "steps": [
+      "Arrange mixed greens on a large platter or in bowls",
+      "Arrange chicken, eggs, bacon, avocado, tomatoes, and blue cheese in rows on top",
+      "Drizzle with ranch dressing",
+      "Toss gently before eating or serve composed"
+    ],
+    "nutrition": {
+      "calories": 480,
+      "protein": 34,
+      "fat": 32,
+      "carbs": 12,
+      "fiber": 6,
+      "servingSize": "2 servings"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=CAplNDqxqq4",
+    "imageURL": "https://img.youtube.com/vi/CAplNDqxqq4/hqdefault.jpg"
+  },
+  {
+    "title": "Vietnamese Banh Mi",
+    "category": "Lunch",
+    "ingredients": [
+      "2 baguette rolls",
+      "8 oz sliced pork loin",
+      "1/2 cup pickled carrots and daikon",
+      "1/2 cucumber, sliced",
+      "Fresh cilantro and jalapeño",
+      "2 tablespoons mayonnaise",
+      "1 tablespoon soy sauce",
+      "1 teaspoon sriracha"
+    ],
+    "steps": [
+      "Season pork with soy sauce and cook in a skillet until done",
+      "Split baguette rolls and toast lightly",
+      "Spread mayo mixed with sriracha on both sides",
+      "Layer pork, pickled vegetables, cucumber, cilantro, and jalapeño",
+      "Press gently and cut in half"
+    ],
+    "nutrition": {
+      "calories": 420,
+      "protein": 28,
+      "fat": 14,
+      "carbs": 46,
+      "fiber": 3,
+      "servingSize": "2 servings"
+    },
+    "imageURL": "https://www.themealdb.com/images/media/meals/sonirb1763782831.jpg",
+    "youtubeURL": "https://www.youtube.com/watch?v=i0_C3eRTbgg"
+  },
+  {
+    "title": "Pasta Salad",
+    "category": "Lunch",
+    "ingredients": [
+      "12 oz rotini pasta",
+      "1 cup cherry tomatoes, halved",
+      "1/2 cup diced cucumber",
+      "1/4 cup sliced black olives",
+      "1/4 cup diced red onion",
+      "1/2 cup Italian dressing",
+      "1/4 cup feta cheese",
+      "Fresh basil"
+    ],
+    "steps": [
+      "Cook pasta according to package directions, drain and cool",
+      "Combine pasta with tomatoes, cucumber, olives, and onion",
+      "Pour Italian dressing over and toss to coat",
+      "Top with crumbled feta and fresh basil",
+      "Refrigerate for 30 minutes before serving for best flavor"
+    ],
+    "nutrition": {
+      "calories": 380,
+      "protein": 12,
+      "fat": 14,
+      "carbs": 52,
+      "fiber": 3,
+      "servingSize": "4 servings"
+    },
+    "imageURL": "https://www.themealdb.com/images/media/meals/wvqpwt1468339226.jpg",
+    "youtubeURL": "https://www.youtube.com/watch?v=e52IL8zYmaE"
+  },
+  {
+    "title": "Chicken Pesto Sandwich",
+    "category": "Lunch",
+    "ingredients": [
+      "2 ciabatta rolls",
+      "8 oz grilled chicken breast, sliced",
+      "2 tablespoons pesto",
+      "4 slices fresh mozzarella",
+      "Roasted red peppers",
+      "Handful of arugula"
+    ],
+    "steps": [
+      "Slice ciabatta rolls in half",
+      "Spread pesto on both halves",
+      "Layer chicken, mozzarella, roasted peppers, and arugula",
+      "Close sandwiches and press gently",
+      "Cut in half and serve"
+    ],
+    "nutrition": {
+      "calories": 460,
+      "protein": 36,
+      "fat": 20,
+      "carbs": 34,
+      "fiber": 2,
+      "servingSize": "2 servings"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=NTQrpDZXQWE",
+    "imageURL": "https://img.youtube.com/vi/NTQrpDZXQWE/hqdefault.jpg"
+  },
+  {
+    "title": "Asian Noodle Bowl",
+    "category": "Lunch",
+    "ingredients": [
+      "8 oz rice noodles",
+      "1 cup shredded cabbage",
+      "1 carrot, julienned",
+      "1/2 cup edamame",
+      "3 tablespoons soy sauce",
+      "1 tablespoon rice vinegar",
+      "1 teaspoon sesame oil",
+      "1 tablespoon honey",
+      "Sesame seeds and cilantro"
+    ],
+    "steps": [
+      "Cook rice noodles according to package, drain and rinse with cold water",
+      "Whisk together soy sauce, rice vinegar, sesame oil, and honey",
+      "Toss noodles with cabbage, carrot, and edamame",
+      "Pour dressing over and toss to combine",
+      "Garnish with sesame seeds and cilantro"
+    ],
+    "nutrition": {
+      "calories": 360,
+      "protein": 12,
+      "fat": 6,
+      "carbs": 66,
+      "fiber": 4,
+      "servingSize": "2 servings"
+    },
+    "imageURL": "https://www.themealdb.com/images/media/meals/zry07j1763779321.jpg",
+    "youtubeURL": "https://www.youtube.com/watch?v=7EAdKeikJ9o"
+  },
+  {
+    "title": "Lemon Herb Grilled Chicken",
+    "category": "Dinner",
+    "ingredients": [
+      "4 boneless chicken thighs",
+      "3 tablespoons olive oil",
+      "2 lemons, juiced and zested",
+      "3 cloves garlic, minced",
+      "2 tablespoons fresh rosemary",
+      "1 tablespoon fresh thyme",
+      "Salt and pepper"
+    ],
+    "steps": [
+      "Whisk together olive oil, lemon juice, zest, garlic, and herbs",
+      "Season chicken with salt and pepper",
+      "Marinate chicken for at least 30 minutes",
+      "Preheat grill to medium-high",
+      "Grill 5-6 minutes per side until cooked through",
+      "Let rest 5 minutes before serving"
+    ],
+    "nutrition": {
+      "calories": 340,
+      "protein": 32,
+      "fat": 22,
+      "carbs": 3,
+      "fiber": 0,
+      "servingSize": "4 servings"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=LooR5pB-7YM",
+    "imageURL": "https://img.youtube.com/vi/LooR5pB-7YM/hqdefault.jpg"
+  },
+  {
+    "title": "Beef Stir-Fry with Vegetables",
+    "category": "Dinner",
+    "ingredients": [
+      "1 lb flank steak, thinly sliced",
+      "2 cups broccoli florets",
+      "1 red bell pepper, sliced",
+      "1 cup snap peas",
+      "3 tablespoons soy sauce",
+      "1 tablespoon sesame oil",
+      "2 tablespoons cornstarch",
+      "2 cloves garlic, minced",
+      "1 tablespoon ginger, grated",
+      "2 tablespoons vegetable oil"
+    ],
+    "steps": [
+      "Toss steak with 1 tablespoon soy sauce and cornstarch",
+      "Heat vegetable oil in a wok over high heat",
+      "Stir-fry beef in batches until browned, set aside",
+      "Add broccoli, bell pepper, and snap peas, stir-fry 3-4 minutes",
+      "Add garlic, ginger, remaining soy sauce, and sesame oil",
+      "Return beef to wok and toss together",
+      "Serve over steamed rice"
+    ],
+    "nutrition": {
+      "calories": 380,
+      "protein": 30,
+      "fat": 16,
+      "carbs": 28,
+      "fiber": 4,
+      "servingSize": "4 servings"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=NUmy4B_AY2c",
+    "imageURL": "https://img.youtube.com/vi/NUmy4B_AY2c/hqdefault.jpg"
+  },
+  {
+    "title": "Baked Salmon with Asparagus",
+    "category": "Dinner",
+    "ingredients": [
+      "4 salmon fillets (6 oz each)",
+      "1 bunch asparagus, trimmed",
+      "3 tablespoons olive oil",
+      "2 tablespoons lemon juice",
+      "3 cloves garlic, minced",
+      "1 tablespoon Dijon mustard",
+      "1 tablespoon honey",
+      "Salt and pepper",
+      "Fresh dill"
+    ],
+    "steps": [
+      "Preheat oven to 400°F, line a sheet pan with parchment",
+      "Whisk olive oil, lemon juice, garlic, mustard, and honey",
+      "Arrange salmon and asparagus on the pan",
+      "Brush salmon with the honey-mustard mixture",
+      "Season with salt and pepper",
+      "Bake 12-15 minutes until salmon flakes easily",
+      "Garnish with fresh dill"
+    ],
+    "nutrition": {
+      "calories": 420,
+      "protein": 36,
+      "fat": 26,
+      "carbs": 10,
+      "fiber": 3,
+      "servingSize": "4 servings"
+    },
+    "imageURL": "https://www.themealdb.com/images/media/meals/1548772327.jpg",
+    "youtubeURL": "https://www.youtube.com/watch?v=xvPR2Tfw5k0"
+  },
+  {
+    "title": "One-Pot Chicken Pasta",
+    "category": "Dinner",
+    "ingredients": [
+      "1 lb chicken breast, cubed",
+      "12 oz penne pasta",
+      "2 cups marinara sauce",
+      "2 cups chicken broth",
+      "1 cup mozzarella, shredded",
+      "1 onion, diced",
+      "2 cloves garlic",
+      "2 tablespoons olive oil",
+      "1 teaspoon Italian seasoning"
+    ],
+    "steps": [
+      "Heat olive oil in a large pot over medium-high heat",
+      "Season and cook chicken until golden, about 5 minutes",
+      "Add onion and garlic, sauté 2 minutes",
+      "Add marinara and broth, bring to a boil",
+      "Add pasta, reduce heat, cover, simmer 12-14 minutes",
+      "Top with mozzarella, cover until melted",
+      "Garnish with basil and serve"
+    ],
+    "nutrition": {
+      "calories": 520,
+      "protein": 36,
+      "fat": 16,
+      "carbs": 58,
+      "fiber": 4,
+      "servingSize": "4 servings"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=mxMa42NAmuA",
+    "imageURL": "https://img.youtube.com/vi/mxMa42NAmuA/hqdefault.jpg"
+  },
+  {
+    "title": "Vegetable Curry",
+    "category": "Dinner",
+    "ingredients": [
+      "1 can (14 oz) coconut milk",
+      "2 tablespoons curry paste",
+      "1 sweet potato, cubed",
+      "1 cup cauliflower florets",
+      "1 cup chickpeas",
+      "1 cup baby spinach",
+      "1 onion, diced",
+      "2 cloves garlic",
+      "1 tablespoon coconut oil"
+    ],
+    "steps": [
+      "Heat coconut oil, sauté onion until softened",
+      "Add garlic and curry paste, stir 1 minute",
+      "Pour in coconut milk, bring to a simmer",
+      "Add sweet potato, cook 10 minutes",
+      "Add cauliflower and chickpeas, simmer 8 minutes",
+      "Stir in spinach until wilted",
+      "Serve over basmati rice"
+    ],
+    "nutrition": {
+      "calories": 380,
+      "protein": 12,
+      "fat": 22,
+      "carbs": 40,
+      "fiber": 8,
+      "servingSize": "4 servings"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=hFqWsanty4A",
+    "imageURL": "https://img.youtube.com/vi/hFqWsanty4A/hqdefault.jpg"
+  },
+  {
+    "title": "Spaghetti Bolognese",
+    "category": "Dinner",
+    "ingredients": [
+      "1 lb ground beef",
+      "12 oz spaghetti",
+      "1 can (28 oz) crushed tomatoes",
+      "1 onion, diced",
+      "2 carrots, diced",
+      "2 celery stalks, diced",
+      "3 cloves garlic",
+      "1/2 cup red wine",
+      "2 tablespoons olive oil",
+      "1 teaspoon oregano"
+    ],
+    "steps": [
+      "Heat olive oil, cook onion, carrots, and celery 8 minutes",
+      "Add garlic, cook 1 minute",
+      "Brown ground beef over high heat",
+      "Add wine, reduce by half",
+      "Add tomatoes and oregano, simmer 30 minutes",
+      "Cook spaghetti in salted water",
+      "Serve sauce over spaghetti with Parmesan"
+    ],
+    "nutrition": {
+      "calories": 480,
+      "protein": 28,
+      "fat": 18,
+      "carbs": 52,
+      "fiber": 5,
+      "servingSize": "4 servings"
+    },
+    "imageURL": "https://www.themealdb.com/images/media/meals/sutysw1468247559.jpg",
+    "youtubeURL": "https://www.youtube.com/watch?v=-gF8d-fitkU"
+  },
+  {
+    "title": "Shrimp Tacos",
+    "category": "Dinner",
+    "ingredients": [
+      "1 lb large shrimp, peeled",
+      "8 small corn tortillas",
+      "1 cup shredded cabbage",
+      "1 avocado, sliced",
+      "1/4 cup sour cream",
+      "2 tablespoons lime juice",
+      "1 tablespoon chili powder",
+      "1 teaspoon cumin",
+      "2 tablespoons olive oil"
+    ],
+    "steps": [
+      "Toss shrimp with chili powder, cumin, and salt",
+      "Heat olive oil, cook shrimp 2-3 minutes per side",
+      "Mix sour cream with lime juice",
+      "Warm tortillas",
+      "Fill with shrimp, cabbage, and avocado",
+      "Drizzle with lime crema and garnish with cilantro"
+    ],
+    "nutrition": {
+      "calories": 380,
+      "protein": 26,
+      "fat": 18,
+      "carbs": 30,
+      "fiber": 6,
+      "servingSize": "4 servings"
+    },
+    "imageURL": "https://www.themealdb.com/images/media/meals/uvuyxu1503067369.jpg",
+    "youtubeURL": "https://www.youtube.com/watch?v=N4EdUt0Ou48"
+  },
+  {
+    "title": "Chicken Alfredo",
+    "category": "Dinner",
+    "ingredients": [
+      "1 lb fettuccine",
+      "2 chicken breasts",
+      "2 cups heavy cream",
+      "1 cup Parmesan, grated",
+      "4 tablespoons butter",
+      "3 cloves garlic, minced",
+      "Salt and pepper",
+      "Fresh parsley"
+    ],
+    "steps": [
+      "Cook fettuccine according to package directions",
+      "Season and cook chicken in butter until done, slice",
+      "In the same pan, sauté garlic in butter for 1 minute",
+      "Pour in heavy cream, bring to a simmer",
+      "Stir in Parmesan until melted and smooth",
+      "Toss pasta with sauce and sliced chicken",
+      "Garnish with parsley and extra Parmesan"
+    ],
+    "nutrition": {
+      "calories": 620,
+      "protein": 34,
+      "fat": 36,
+      "carbs": 42,
+      "fiber": 2,
+      "servingSize": "4 servings"
+    },
+    "imageURL": "https://www.themealdb.com/images/media/meals/syqypv1486981727.jpg",
+    "youtubeURL": "https://www.youtube.com/watch?v=qCIbq8HywpQ"
+  },
+  {
+    "title": "Teriyaki Salmon Bowl",
+    "category": "Dinner",
+    "ingredients": [
+      "4 salmon fillets",
+      "1/4 cup soy sauce",
+      "2 tablespoons mirin",
+      "1 tablespoon honey",
+      "1 teaspoon ginger, grated",
+      "2 cups cooked sushi rice",
+      "1 avocado, sliced",
+      "1 cup edamame",
+      "Sesame seeds"
+    ],
+    "steps": [
+      "Mix soy sauce, mirin, honey, and ginger for teriyaki sauce",
+      "Marinate salmon for 15 minutes",
+      "Bake salmon at 400°F for 12 minutes, brushing with sauce",
+      "Divide rice among bowls",
+      "Top with salmon, avocado, and edamame",
+      "Drizzle remaining sauce and sprinkle sesame seeds"
+    ],
+    "nutrition": {
+      "calories": 480,
+      "protein": 34,
+      "fat": 20,
+      "carbs": 42,
+      "fiber": 6,
+      "servingSize": "4 servings"
+    },
+    "imageURL": "https://www.themealdb.com/images/media/meals/xxyupu1468262513.jpg",
+    "youtubeURL": "https://www.youtube.com/watch?v=4MpYuaJsvRw"
+  },
+  {
+    "title": "Stuffed Bell Peppers",
+    "category": "Dinner",
+    "ingredients": [
+      "6 bell peppers, tops removed and seeded",
+      "1 lb ground turkey",
+      "1 cup cooked rice",
+      "1 can (14 oz) diced tomatoes",
+      "1 cup shredded cheddar",
+      "1/2 onion, diced",
+      "2 cloves garlic",
+      "1 teaspoon cumin",
+      "Salt and pepper"
+    ],
+    "steps": [
+      "Preheat oven to 375°F",
+      "Brown ground turkey with onion and garlic",
+      "Mix turkey with rice, diced tomatoes, half the cheese, and cumin",
+      "Season with salt and pepper",
+      "Stuff peppers with the mixture",
+      "Place in a baking dish with 1/2 inch of water",
+      "Bake 30 minutes, top with remaining cheese, bake 5 more minutes"
+    ],
+    "nutrition": {
+      "calories": 340,
+      "protein": 26,
+      "fat": 14,
+      "carbs": 28,
+      "fiber": 4,
+      "servingSize": "6 servings"
+    },
+    "imageURL": "https://www.themealdb.com/images/media/meals/b66myb1683207208.jpg",
+    "youtubeURL": "https://www.youtube.com/watch?v=ektsiKFVqks"
+  },
+  {
+    "title": "Honey Garlic Pork Chops",
+    "category": "Dinner",
+    "ingredients": [
+      "4 bone-in pork chops",
+      "4 tablespoons honey",
+      "3 tablespoons soy sauce",
+      "4 cloves garlic, minced",
+      "1 tablespoon olive oil",
+      "1 teaspoon smoked paprika",
+      "Salt and pepper",
+      "Fresh thyme"
+    ],
+    "steps": [
+      "Season pork chops with paprika, salt, and pepper",
+      "Heat olive oil in a skillet over medium-high heat",
+      "Sear pork chops 4 minutes per side",
+      "Mix honey, soy sauce, and garlic",
+      "Pour sauce into the skillet, reduce heat",
+      "Baste pork chops with sauce for 2-3 minutes",
+      "Garnish with fresh thyme"
+    ],
+    "nutrition": {
+      "calories": 380,
+      "protein": 30,
+      "fat": 16,
+      "carbs": 28,
+      "fiber": 0,
+      "servingSize": "4 servings"
+    },
+    "imageURL": "https://www.themealdb.com/images/media/meals/h3ijwo1581013377.jpg",
+    "youtubeURL": "https://www.youtube.com/watch?v=6ybbclHqNhI"
+  },
+  {
+    "title": "Mushroom Risotto",
+    "category": "Dinner",
+    "ingredients": [
+      "1.5 cups arborio rice",
+      "8 oz mixed mushrooms, sliced",
+      "4 cups warm chicken broth",
+      "1/2 cup white wine",
+      "1/2 cup Parmesan, grated",
+      "1 onion, diced",
+      "3 tablespoons butter",
+      "2 tablespoons olive oil",
+      "Salt and pepper"
+    ],
+    "steps": [
+      "Sauté mushrooms in olive oil until golden, set aside",
+      "Melt butter, cook onion until softened",
+      "Add rice, stir to coat, cook 1 minute",
+      "Add wine, stir until absorbed",
+      "Add broth one ladle at a time, stirring until absorbed before adding more",
+      "Continue for 18-20 minutes until rice is creamy",
+      "Stir in mushrooms and Parmesan, season with salt and pepper"
+    ],
+    "nutrition": {
+      "calories": 420,
+      "protein": 14,
+      "fat": 16,
+      "carbs": 54,
+      "fiber": 2,
+      "servingSize": "4 servings"
+    },
+    "imageURL": "https://www.themealdb.com/images/media/meals/xxrxux1503070723.jpg",
+    "youtubeURL": "https://www.youtube.com/watch?v=V2PMvBv52IE"
+  },
+  {
+    "title": "Fish and Chips",
+    "category": "Dinner",
+    "ingredients": [
+      "4 cod fillets",
+      "1 cup all-purpose flour",
+      "1 cup cold beer",
+      "1 teaspoon baking powder",
+      "4 large potatoes, cut into thick fries",
+      "Vegetable oil for frying",
+      "Salt",
+      "Malt vinegar and tartar sauce"
+    ],
+    "steps": [
+      "Cut potatoes into thick fries, soak in cold water 30 minutes",
+      "Dry fries and deep-fry at 325°F for 5 minutes, drain",
+      "Mix flour, baking powder, and salt, whisk in beer until smooth",
+      "Dip cod in batter, letting excess drip off",
+      "Deep-fry fish at 375°F for 5-6 minutes until golden",
+      "Re-fry chips at 375°F for 2 minutes until crispy",
+      "Season with salt and serve with malt vinegar and tartar sauce"
+    ],
+    "nutrition": {
+      "calories": 520,
+      "protein": 28,
+      "fat": 22,
+      "carbs": 52,
+      "fiber": 4,
+      "servingSize": "4 servings"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=oI2x-C2TAdE",
+    "imageURL": "https://img.youtube.com/vi/oI2x-C2TAdE/hqdefault.jpg"
+  },
+  {
+    "title": "Chicken Tikka Masala",
+    "category": "Dinner",
+    "ingredients": [
+      "1.5 lbs chicken thighs, cubed",
+      "1 cup plain yogurt",
+      "2 tablespoons garam masala",
+      "1 can (14 oz) tomato sauce",
+      "1 cup heavy cream",
+      "1 onion, diced",
+      "3 cloves garlic",
+      "1 tablespoon ginger",
+      "2 tablespoons butter",
+      "Fresh cilantro"
+    ],
+    "steps": [
+      "Marinate chicken in yogurt and 1 tablespoon garam masala for 1 hour",
+      "Cook marinated chicken in butter until browned",
+      "Remove chicken, sauté onion, garlic, and ginger",
+      "Add remaining garam masala and tomato sauce, simmer 10 minutes",
+      "Stir in heavy cream",
+      "Return chicken to sauce, simmer 10 minutes",
+      "Serve over basmati rice with cilantro"
+    ],
+    "nutrition": {
+      "calories": 460,
+      "protein": 34,
+      "fat": 28,
+      "carbs": 16,
+      "fiber": 2,
+      "servingSize": "4 servings"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=2ib4NQqdUn8",
+    "imageURL": "https://img.youtube.com/vi/2ib4NQqdUn8/hqdefault.jpg"
+  },
+  {
+    "title": "Beef Tacos",
+    "category": "Dinner",
+    "ingredients": [
+      "1 lb ground beef",
+      "1 packet taco seasoning",
+      "8 taco shells",
+      "1 cup shredded lettuce",
+      "1 cup shredded cheddar",
+      "1/2 cup diced tomatoes",
+      "1/2 cup sour cream",
+      "Salsa"
+    ],
+    "steps": [
+      "Brown ground beef in a skillet, drain excess fat",
+      "Add taco seasoning with water per package directions",
+      "Simmer 5 minutes until thickened",
+      "Warm taco shells in oven",
+      "Fill shells with seasoned beef",
+      "Top with lettuce, cheese, tomatoes, sour cream, and salsa"
+    ],
+    "nutrition": {
+      "calories": 380,
+      "protein": 22,
+      "fat": 20,
+      "carbs": 28,
+      "fiber": 2,
+      "servingSize": "4 servings"
+    },
+    "imageURL": "https://www.themealdb.com/images/media/meals/uvuyxu1503067369.jpg",
+    "youtubeURL": "https://www.youtube.com/watch?v=N4EdUt0Ou48"
+  },
+  {
+    "title": "Eggplant Parmesan",
+    "category": "Dinner",
+    "ingredients": [
+      "2 large eggplants, sliced 1/2 inch thick",
+      "2 cups marinara sauce",
+      "2 cups mozzarella, shredded",
+      "1/2 cup Parmesan, grated",
+      "1 cup breadcrumbs",
+      "2 eggs, beaten",
+      "1/2 cup flour",
+      "Salt and pepper",
+      "Fresh basil"
+    ],
+    "steps": [
+      "Salt eggplant slices and let sit 30 minutes, pat dry",
+      "Set up breading station: flour, beaten eggs, breadcrumbs",
+      "Bread each eggplant slice",
+      "Bake at 400°F on oiled baking sheets for 20 minutes, flipping halfway",
+      "Layer sauce, eggplant, mozzarella, and Parmesan in a baking dish",
+      "Repeat layers, ending with cheese on top",
+      "Bake at 375°F for 25 minutes until bubbly, garnish with basil"
+    ],
+    "nutrition": {
+      "calories": 380,
+      "protein": 20,
+      "fat": 16,
+      "carbs": 40,
+      "fiber": 8,
+      "servingSize": "6 servings"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=l3Qi2IW7Pg8",
+    "imageURL": "https://img.youtube.com/vi/l3Qi2IW7Pg8/hqdefault.jpg"
+  },
+  {
+    "title": "Lemon Butter Shrimp Pasta",
+    "category": "Dinner",
+    "ingredients": [
+      "12 oz linguine",
+      "1 lb large shrimp, peeled",
+      "4 tablespoons butter",
+      "4 cloves garlic, minced",
+      "1/4 cup white wine",
+      "2 tablespoons lemon juice",
+      "1/4 cup fresh parsley",
+      "Red pepper flakes",
+      "Parmesan for serving"
+    ],
+    "steps": [
+      "Cook linguine according to package directions",
+      "Melt 2 tablespoons butter, cook shrimp 2 minutes per side, set aside",
+      "Add remaining butter, sauté garlic 30 seconds",
+      "Add wine and lemon juice, simmer 2 minutes",
+      "Toss in cooked pasta and shrimp",
+      "Garnish with parsley, red pepper flakes, and Parmesan"
+    ],
+    "nutrition": {
+      "calories": 480,
+      "protein": 30,
+      "fat": 16,
+      "carbs": 52,
+      "fiber": 2,
+      "servingSize": "4 servings"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=9fZIOP2eNq4",
+    "imageURL": "https://img.youtube.com/vi/9fZIOP2eNq4/hqdefault.jpg"
+  },
+  {
+    "title": "Pulled Pork Sandwiches",
+    "category": "Dinner",
+    "ingredients": [
+      "3 lb pork shoulder",
+      "1 cup BBQ sauce",
+      "1/2 cup apple cider vinegar",
+      "2 tablespoons brown sugar",
+      "1 tablespoon smoked paprika",
+      "1 teaspoon garlic powder",
+      "6 brioche buns",
+      "Coleslaw for topping"
+    ],
+    "steps": [
+      "Rub pork with paprika, garlic powder, salt, and pepper",
+      "Place in slow cooker with vinegar and brown sugar",
+      "Cook on low for 8 hours until fall-apart tender",
+      "Shred pork with two forks, mix with BBQ sauce",
+      "Toast brioche buns",
+      "Pile pulled pork on buns and top with coleslaw"
+    ],
+    "nutrition": {
+      "calories": 520,
+      "protein": 34,
+      "fat": 22,
+      "carbs": 46,
+      "fiber": 2,
+      "servingSize": "6 servings"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=2OHgWmB49So",
+    "imageURL": "https://img.youtube.com/vi/2OHgWmB49So/hqdefault.jpg"
+  },
+  {
+    "title": "Thai Basil Chicken",
+    "category": "Dinner",
+    "ingredients": [
+      "1 lb ground chicken",
+      "1 cup fresh Thai basil leaves",
+      "3 cloves garlic, minced",
+      "2 Thai chilies, sliced",
+      "2 tablespoons soy sauce",
+      "1 tablespoon oyster sauce",
+      "1 tablespoon fish sauce",
+      "1 teaspoon sugar",
+      "2 tablespoons vegetable oil",
+      "Jasmine rice"
+    ],
+    "steps": [
+      "Heat oil in a wok over high heat",
+      "Cook garlic and chilies for 30 seconds",
+      "Add ground chicken, break up and cook until browned",
+      "Add soy sauce, oyster sauce, fish sauce, and sugar",
+      "Stir-fry 2 more minutes",
+      "Remove from heat, stir in Thai basil until wilted",
+      "Serve over jasmine rice"
+    ],
+    "nutrition": {
+      "calories": 340,
+      "protein": 28,
+      "fat": 16,
+      "carbs": 20,
+      "fiber": 1,
+      "servingSize": "4 servings"
+    },
+    "imageURL": "https://www.themealdb.com/images/media/meals/uuuspp1468263334.jpg",
+    "youtubeURL": "https://www.youtube.com/watch?v=Ohy1DELF4is"
+  },
+  {
+    "title": "Chocolate Chip Cookies",
+    "category": "Dessert",
+    "ingredients": [
+      "2 1/4 cups all-purpose flour",
+      "1 cup butter, softened",
+      "3/4 cup granulated sugar",
+      "3/4 cup brown sugar",
+      "2 eggs",
+      "1 teaspoon vanilla",
+      "1 teaspoon baking soda",
+      "1/2 teaspoon salt",
+      "2 cups chocolate chips"
+    ],
+    "steps": [
+      "Preheat oven to 375°F, line baking sheets with parchment",
+      "Cream butter with both sugars until fluffy",
+      "Beat in eggs and vanilla",
+      "Whisk flour, baking soda, and salt, gradually mix into wet ingredients",
+      "Fold in chocolate chips",
+      "Drop rounded tablespoons onto baking sheets",
+      "Bake 9-11 minutes until edges are golden"
+    ],
+    "nutrition": {
+      "calories": 180,
+      "protein": 2,
+      "fat": 9,
+      "carbs": 24,
+      "sugar": 15,
+      "servingSize": "24 cookies"
+    },
+    "imageURL": "https://www.themealdb.com/images/media/meals/sktequ1764447186.jpg",
+    "youtubeURL": "https://www.youtube.com/watch?v=8dh7HmkBLCI"
+  },
+  {
+    "title": "Berry Smoothie Bowl",
+    "category": "Dessert",
+    "ingredients": [
+      "1 cup frozen mixed berries",
+      "1 frozen banana",
+      "1/2 cup Greek yogurt",
+      "1/4 cup milk",
+      "Granola",
+      "1 tablespoon honey",
+      "Coconut flakes",
+      "1 tablespoon chia seeds"
+    ],
+    "steps": [
+      "Blend berries, banana, yogurt, and milk until thick",
+      "Pour into a bowl",
+      "Top with granola, coconut flakes, chia seeds",
+      "Drizzle with honey and serve immediately"
+    ],
+    "nutrition": {
+      "calories": 290,
+      "protein": 12,
+      "fat": 6,
+      "carbs": 52,
+      "fiber": 8,
+      "sugar": 30,
+      "servingSize": "1 serving"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=_xNyuAmb44k",
+    "imageURL": "https://img.youtube.com/vi/_xNyuAmb44k/hqdefault.jpg"
+  },
+  {
+    "title": "No-Bake Cheesecake Bites",
+    "category": "Dessert",
+    "ingredients": [
+      "8 oz cream cheese, softened",
+      "1/4 cup powdered sugar",
+      "1 teaspoon vanilla",
+      "1 cup graham cracker crumbs",
+      "2 tablespoons melted butter",
+      "1/2 cup white chocolate chips"
+    ],
+    "steps": [
+      "Mix cream cheese, powdered sugar, and vanilla until smooth",
+      "Roll into 1-inch balls",
+      "Mix graham cracker crumbs with melted butter",
+      "Roll each ball in the crumb mixture",
+      "Refrigerate for 1 hour",
+      "Drizzle with melted white chocolate"
+    ],
+    "nutrition": {
+      "calories": 120,
+      "protein": 2,
+      "fat": 8,
+      "carbs": 10,
+      "sugar": 6,
+      "servingSize": "12 bites"
+    },
+    "imageURL": "https://www.themealdb.com/images/media/meals/swttys1511385853.jpg",
+    "youtubeURL": "https://www.youtube.com/watch?v=tspdJ6hxqnc"
+  },
+  {
+    "title": "Classic Brownies",
+    "category": "Dessert",
+    "ingredients": [
+      "1/2 cup butter, melted",
+      "1 cup sugar",
+      "2 eggs",
+      "1/3 cup cocoa powder",
+      "1/2 cup all-purpose flour",
+      "1/4 teaspoon salt",
+      "1/4 teaspoon baking powder",
+      "1 teaspoon vanilla"
+    ],
+    "steps": [
+      "Preheat oven to 350°F, grease an 8x8 baking pan",
+      "Mix melted butter and sugar",
+      "Beat in eggs and vanilla",
+      "Stir in cocoa, flour, salt, and baking powder",
+      "Pour into prepared pan",
+      "Bake 20-25 minutes until a toothpick comes out with moist crumbs",
+      "Let cool before cutting into squares"
+    ],
+    "nutrition": {
+      "calories": 160,
+      "protein": 2,
+      "fat": 8,
+      "carbs": 22,
+      "sugar": 14,
+      "servingSize": "16 brownies"
+    },
+    "imageURL": "https://www.themealdb.com/images/media/meals/yypvst1511386427.jpg",
+    "youtubeURL": "https://www.youtube.com/watch?v=Pi89PqsAaAg"
+  },
+  {
+    "title": "Banana Bread",
+    "category": "Dessert",
+    "ingredients": [
+      "3 ripe bananas, mashed",
+      "1/3 cup melted butter",
+      "3/4 cup sugar",
+      "1 egg",
+      "1 teaspoon vanilla",
+      "1 teaspoon baking soda",
+      "Pinch of salt",
+      "1 1/2 cups all-purpose flour",
+      "1/2 cup chopped walnuts"
+    ],
+    "steps": [
+      "Preheat oven to 350°F, grease a 9x5 loaf pan",
+      "Mix mashed bananas with melted butter",
+      "Stir in sugar, egg, and vanilla",
+      "Add baking soda, salt, and flour, mix until just combined",
+      "Fold in walnuts",
+      "Pour into loaf pan",
+      "Bake 55-65 minutes until a toothpick comes out clean"
+    ],
+    "nutrition": {
+      "calories": 210,
+      "protein": 3,
+      "fat": 8,
+      "carbs": 32,
+      "sugar": 18,
+      "servingSize": "10 slices"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=GopM99zHzqA",
+    "imageURL": "https://img.youtube.com/vi/GopM99zHzqA/hqdefault.jpg"
+  },
+  {
+    "title": "Apple Crisp",
+    "category": "Dessert",
+    "ingredients": [
+      "6 medium apples, peeled and sliced",
+      "1 cup rolled oats",
+      "1/2 cup brown sugar",
+      "1/3 cup all-purpose flour",
+      "1/3 cup cold butter, cubed",
+      "1 teaspoon cinnamon",
+      "1/4 teaspoon nutmeg",
+      "Vanilla ice cream for serving"
+    ],
+    "steps": [
+      "Preheat oven to 350°F",
+      "Toss apple slices with 2 tablespoons brown sugar and half the cinnamon",
+      "Place in a greased 9x9 baking dish",
+      "Mix oats, remaining brown sugar, flour, remaining cinnamon, and nutmeg",
+      "Cut in cold butter until crumbly",
+      "Spread topping over apples",
+      "Bake 40-45 minutes until topping is golden and apples are tender",
+      "Serve warm with vanilla ice cream"
+    ],
+    "nutrition": {
+      "calories": 280,
+      "protein": 3,
+      "fat": 10,
+      "carbs": 46,
+      "sugar": 28,
+      "fiber": 4,
+      "servingSize": "8 servings"
+    },
+    "imageURL": "https://www.themealdb.com/images/media/meals/c0gmo31766594751.jpg",
+    "youtubeURL": "https://www.youtube.com/watch?v=vZy-7UyPdjM"
+  },
+  {
+    "title": "Lemon Bars",
+    "category": "Dessert",
+    "ingredients": [
+      "1 cup all-purpose flour",
+      "1/4 cup powdered sugar",
+      "1/2 cup butter, softened",
+      "2 eggs",
+      "3/4 cup granulated sugar",
+      "2 tablespoons flour",
+      "3 tablespoons lemon juice",
+      "1 tablespoon lemon zest",
+      "Powdered sugar for dusting"
+    ],
+    "steps": [
+      "Preheat oven to 350°F",
+      "Mix 1 cup flour, 1/4 cup powdered sugar, and butter until crumbly",
+      "Press into an 8x8 pan, bake 15 minutes",
+      "Whisk eggs, sugar, 2 tablespoons flour, lemon juice, and zest",
+      "Pour over hot crust",
+      "Bake 20 minutes until filling is set",
+      "Cool completely, dust with powdered sugar, cut into bars"
+    ],
+    "nutrition": {
+      "calories": 150,
+      "protein": 2,
+      "fat": 7,
+      "carbs": 20,
+      "sugar": 14,
+      "servingSize": "16 bars"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=xjG3zq_hXX8",
+    "imageURL": "https://img.youtube.com/vi/xjG3zq_hXX8/hqdefault.jpg"
+  },
+  {
+    "title": "Chocolate Mousse",
+    "category": "Dessert",
+    "ingredients": [
+      "6 oz dark chocolate, chopped",
+      "3 eggs, separated",
+      "2 tablespoons sugar",
+      "1 cup heavy cream",
+      "1 teaspoon vanilla extract",
+      "Pinch of salt"
+    ],
+    "steps": [
+      "Melt chocolate in a double boiler, let cool slightly",
+      "Whisk egg yolks into melted chocolate one at a time",
+      "Whip cream with vanilla to soft peaks",
+      "In a separate bowl, whip egg whites with sugar to stiff peaks",
+      "Fold egg whites into chocolate mixture",
+      "Fold in whipped cream gently",
+      "Divide into serving glasses and chill at least 2 hours"
+    ],
+    "nutrition": {
+      "calories": 280,
+      "protein": 5,
+      "fat": 22,
+      "carbs": 18,
+      "sugar": 14,
+      "servingSize": "6 servings"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=NI9xoxHD5kA",
+    "imageURL": "https://img.youtube.com/vi/NI9xoxHD5kA/hqdefault.jpg"
+  },
+  {
+    "title": "Peanut Butter Cups",
+    "category": "Dessert",
+    "ingredients": [
+      "1 cup chocolate chips",
+      "1/2 cup peanut butter",
+      "2 tablespoons powdered sugar",
+      "1 tablespoon butter, melted",
+      "1/4 teaspoon salt",
+      "12 mini muffin liners"
+    ],
+    "steps": [
+      "Melt chocolate chips in the microwave in 30-second intervals",
+      "Spoon a small amount of chocolate into each muffin liner",
+      "Spread up the sides with a small spoon, freeze 10 minutes",
+      "Mix peanut butter, powdered sugar, butter, and salt",
+      "Place a small ball of peanut butter mixture in each cup",
+      "Cover with remaining melted chocolate",
+      "Refrigerate until set, about 1 hour"
+    ],
+    "nutrition": {
+      "calories": 140,
+      "protein": 4,
+      "fat": 10,
+      "carbs": 10,
+      "sugar": 7,
+      "servingSize": "12 cups"
+    },
+    "imageURL": "https://www.themealdb.com/images/media/meals/1544384070.jpg",
+    "youtubeURL": "https://www.youtube.com/watch?v=_hErOR1UuSU"
+  },
+  {
+    "title": "Strawberry Shortcake",
+    "category": "Dessert",
+    "ingredients": [
+      "2 cups all-purpose flour",
+      "1/3 cup sugar",
+      "1 tablespoon baking powder",
+      "1/3 cup cold butter",
+      "2/3 cup milk",
+      "1 egg",
+      "2 cups strawberries, sliced",
+      "1 cup whipped cream",
+      "2 tablespoons sugar for berries"
+    ],
+    "steps": [
+      "Preheat oven to 425°F",
+      "Mix flour, sugar, baking powder, cut in butter until crumbly",
+      "Stir in milk and egg until just combined",
+      "Drop 6 mounds onto a baking sheet",
+      "Bake 12-15 minutes until golden",
+      "Toss strawberries with sugar and let sit 15 minutes",
+      "Split shortcakes, fill with berries and whipped cream"
+    ],
+    "nutrition": {
+      "calories": 320,
+      "protein": 6,
+      "fat": 16,
+      "carbs": 40,
+      "sugar": 18,
+      "servingSize": "6 servings"
+    },
+    "imageURL": "https://www.themealdb.com/images/media/meals/178z5o1585514569.jpg",
+    "youtubeURL": "https://www.youtube.com/watch?v=tGw5Pwm4YA0"
+  },
+  {
+    "title": "Tiramisu",
+    "category": "Dessert",
+    "ingredients": [
+      "24 ladyfinger cookies",
+      "2 cups mascarpone cheese",
+      "3 egg yolks",
+      "1/2 cup sugar",
+      "1 cup strong espresso, cooled",
+      "2 tablespoons coffee liqueur",
+      "1 cup heavy cream, whipped",
+      "Cocoa powder for dusting"
+    ],
+    "steps": [
+      "Whisk egg yolks with sugar until thick and pale",
+      "Add mascarpone and mix until smooth",
+      "Fold in whipped cream",
+      "Mix espresso with coffee liqueur",
+      "Quickly dip ladyfingers in espresso mixture",
+      "Layer dipped ladyfingers in a dish, spread half the mascarpone cream",
+      "Repeat layers",
+      "Refrigerate at least 4 hours or overnight",
+      "Dust with cocoa powder before serving"
+    ],
+    "nutrition": {
+      "calories": 340,
+      "protein": 6,
+      "fat": 22,
+      "carbs": 28,
+      "sugar": 18,
+      "servingSize": "8 servings"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=ZZoLlQNdp7Q",
+    "imageURL": "https://img.youtube.com/vi/ZZoLlQNdp7Q/hqdefault.jpg"
+  },
+  {
+    "title": "Rice Pudding",
+    "category": "Dessert",
+    "ingredients": [
+      "1 cup short-grain rice",
+      "4 cups whole milk",
+      "1/2 cup sugar",
+      "1 teaspoon vanilla extract",
+      "1/2 teaspoon cinnamon",
+      "Pinch of salt",
+      "Raisins (optional)"
+    ],
+    "steps": [
+      "Combine rice, milk, sugar, and salt in a saucepan",
+      "Bring to a boil, then reduce to a low simmer",
+      "Cook 35-40 minutes, stirring frequently, until thick and creamy",
+      "Stir in vanilla, cinnamon, and raisins if using",
+      "Serve warm or chilled",
+      "Sprinkle extra cinnamon on top"
+    ],
+    "nutrition": {
+      "calories": 240,
+      "protein": 6,
+      "fat": 6,
+      "carbs": 42,
+      "sugar": 22,
+      "servingSize": "6 servings"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=f52Pyr6swKQ",
+    "imageURL": "https://img.youtube.com/vi/f52Pyr6swKQ/hqdefault.jpg"
+  },
+  {
+    "title": "Panna Cotta",
+    "category": "Dessert",
+    "ingredients": [
+      "2 cups heavy cream",
+      "1/3 cup sugar",
+      "1 teaspoon vanilla extract",
+      "1 packet (2.5 tsp) unflavored gelatin",
+      "3 tablespoons cold water",
+      "Fresh berries for topping"
+    ],
+    "steps": [
+      "Sprinkle gelatin over cold water and let bloom for 5 minutes",
+      "Heat cream and sugar in a saucepan until sugar dissolves",
+      "Remove from heat and stir in bloomed gelatin until dissolved",
+      "Add vanilla extract",
+      "Pour into 4 ramekins or glasses",
+      "Refrigerate at least 4 hours until set",
+      "Top with fresh berries before serving"
+    ],
+    "nutrition": {
+      "calories": 320,
+      "protein": 3,
+      "fat": 28,
+      "carbs": 16,
+      "sugar": 14,
+      "servingSize": "4 servings"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=p5mSdmO6kEc",
+    "imageURL": "https://img.youtube.com/vi/p5mSdmO6kEc/hqdefault.jpg"
+  },
+  {
+    "title": "Churros",
+    "category": "Dessert",
+    "ingredients": [
+      "1 cup water",
+      "1/3 cup butter",
+      "1/4 teaspoon salt",
+      "1 cup all-purpose flour",
+      "2 eggs",
+      "1/2 cup sugar",
+      "1 teaspoon cinnamon",
+      "Vegetable oil for frying",
+      "Chocolate sauce for dipping"
+    ],
+    "steps": [
+      "Bring water, butter, and salt to a boil",
+      "Remove from heat, add flour, stir vigorously until dough forms a ball",
+      "Beat in eggs one at a time until smooth",
+      "Fill a piping bag with a star tip",
+      "Heat oil to 375°F",
+      "Pipe 4-inch strips into oil, fry until golden, about 2 minutes per side",
+      "Drain on paper towels",
+      "Roll in cinnamon sugar and serve with chocolate sauce"
+    ],
+    "nutrition": {
+      "calories": 160,
+      "protein": 2,
+      "fat": 8,
+      "carbs": 20,
+      "sugar": 10,
+      "servingSize": "12 churros"
+    },
+    "imageURL": "https://www.themealdb.com/images/media/meals/nxnny61763250596.jpg",
+    "youtubeURL": "https://www.youtube.com/watch?v=453mpKHVaBs"
+  },
+  {
+    "title": "Mango Sorbet",
+    "category": "Dessert",
+    "ingredients": [
+      "3 cups frozen mango chunks",
+      "1/4 cup sugar",
+      "2 tablespoons lime juice",
+      "1/4 cup water"
+    ],
+    "steps": [
+      "Blend frozen mango, sugar, lime juice, and water in a food processor",
+      "Scrape down sides and blend again until smooth",
+      "Transfer to a freezer-safe container",
+      "Freeze for 2-3 hours, stirring every 30 minutes",
+      "Scoop and serve"
+    ],
+    "nutrition": {
+      "calories": 120,
+      "protein": 1,
+      "fat": 0,
+      "carbs": 32,
+      "sugar": 28,
+      "servingSize": "4 servings"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=4iaTaO0TO00",
+    "imageURL": "https://img.youtube.com/vi/4iaTaO0TO00/hqdefault.jpg"
+  },
+  {
+    "title": "Cookie Dough Truffles",
+    "category": "Dessert",
+    "ingredients": [
+      "1/2 cup butter, softened",
+      "3/4 cup brown sugar",
+      "2 cups flour (heat-treated)",
+      "1 teaspoon vanilla",
+      "1/4 cup milk",
+      "1/2 cup mini chocolate chips",
+      "8 oz chocolate coating"
+    ],
+    "steps": [
+      "Cream butter and brown sugar",
+      "Mix in flour, vanilla, and milk until a dough forms",
+      "Fold in mini chocolate chips",
+      "Roll into 1-inch balls, place on a parchment-lined tray",
+      "Freeze 30 minutes",
+      "Melt chocolate coating, dip each ball",
+      "Return to tray and refrigerate until set"
+    ],
+    "nutrition": {
+      "calories": 150,
+      "protein": 2,
+      "fat": 8,
+      "carbs": 20,
+      "sugar": 12,
+      "servingSize": "20 truffles"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=rRcjssfIgv4",
+    "imageURL": "https://img.youtube.com/vi/rRcjssfIgv4/hqdefault.jpg"
+  },
+  {
+    "title": "Crème Brûlée",
+    "category": "Dessert",
+    "ingredients": [
+      "2 cups heavy cream",
+      "5 egg yolks",
+      "1/2 cup sugar plus extra for topping",
+      "1 teaspoon vanilla extract",
+      "Pinch of salt"
+    ],
+    "steps": [
+      "Preheat oven to 325°F",
+      "Heat cream until it just begins to simmer",
+      "Whisk egg yolks with sugar until pale",
+      "Slowly pour hot cream into yolks while whisking",
+      "Add vanilla and salt",
+      "Pour into 4 ramekins, place in a water bath",
+      "Bake 40-45 minutes until set but jiggly in center",
+      "Chill at least 2 hours",
+      "Sprinkle sugar on top and torch until caramelized"
+    ],
+    "nutrition": {
+      "calories": 380,
+      "protein": 5,
+      "fat": 32,
+      "carbs": 20,
+      "sugar": 18,
+      "servingSize": "4 servings"
+    },
+    "imageURL": "https://www.themealdb.com/images/media/meals/uryqru1511798039.jpg",
+    "youtubeURL": "https://www.youtube.com/watch?v=LmJ0lsPLHDc"
+  },
+  {
+    "title": "Peach Cobbler",
+    "category": "Dessert",
+    "ingredients": [
+      "6 cups sliced peaches",
+      "1 cup sugar divided",
+      "1 cup all-purpose flour",
+      "1 teaspoon baking powder",
+      "3/4 cup milk",
+      "1/2 cup melted butter",
+      "1 teaspoon vanilla",
+      "1/2 teaspoon cinnamon"
+    ],
+    "steps": [
+      "Preheat oven to 350°F",
+      "Toss peaches with 1/2 cup sugar and cinnamon",
+      "Pour melted butter into a 9x13 baking dish",
+      "Mix flour, remaining sugar, baking powder, milk, and vanilla",
+      "Pour batter over butter — do not stir",
+      "Spoon peaches over batter — do not stir",
+      "Bake 45-55 minutes until golden and bubbly",
+      "Serve warm with vanilla ice cream"
+    ],
+    "nutrition": {
+      "calories": 300,
+      "protein": 3,
+      "fat": 12,
+      "carbs": 46,
+      "sugar": 32,
+      "servingSize": "8 servings"
+    },
+    "imageURL": "https://www.themealdb.com/images/media/meals/ssxvup1511387476.jpg",
+    "youtubeURL": "https://www.youtube.com/watch?v=SNeO28BCpsc"
+  },
+  {
+    "title": "Coconut Macaroons",
+    "category": "Dessert",
+    "ingredients": [
+      "14 oz sweetened shredded coconut",
+      "14 oz sweetened condensed milk",
+      "2 teaspoons vanilla extract",
+      "2 egg whites",
+      "1/4 teaspoon salt",
+      "4 oz dark chocolate, melted"
+    ],
+    "steps": [
+      "Preheat oven to 325°F, line baking sheets with parchment",
+      "Mix coconut, condensed milk, and vanilla",
+      "Whip egg whites with salt to stiff peaks",
+      "Fold egg whites into coconut mixture",
+      "Drop rounded tablespoons onto baking sheets",
+      "Bake 20-25 minutes until golden on edges",
+      "Cool completely, dip bottoms in melted chocolate",
+      "Set on parchment until chocolate hardens"
+    ],
+    "nutrition": {
+      "calories": 140,
+      "protein": 2,
+      "fat": 8,
+      "carbs": 16,
+      "sugar": 14,
+      "servingSize": "24 macaroons"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=k_1BdSzBaMc",
+    "imageURL": "https://img.youtube.com/vi/k_1BdSzBaMc/hqdefault.jpg"
+  },
+  {
+    "title": "Guacamole with Chips",
+    "category": "Snack",
+    "ingredients": [
+      "3 ripe avocados",
+      "1 lime, juiced",
+      "1/2 teaspoon salt",
+      "1/2 cup diced onion",
+      "3 tablespoons cilantro, chopped",
+      "2 roma tomatoes, diced",
+      "1 teaspoon garlic, minced",
+      "Pinch of cumin",
+      "Tortilla chips"
+    ],
+    "steps": [
+      "Halve avocados, remove pits, scoop into a bowl",
+      "Mash with a fork to desired consistency",
+      "Stir in lime juice, salt, onion, cilantro, tomatoes, garlic, and cumin",
+      "Taste and adjust seasoning",
+      "Serve with tortilla chips"
+    ],
+    "nutrition": {
+      "calories": 230,
+      "protein": 3,
+      "fat": 18,
+      "carbs": 16,
+      "fiber": 8,
+      "servingSize": "4 servings"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=iOZk8j4fp7U",
+    "imageURL": "https://img.youtube.com/vi/iOZk8j4fp7U/hqdefault.jpg"
+  },
+  {
+    "title": "Hummus with Veggie Sticks",
+    "category": "Snack",
+    "ingredients": [
+      "1 can (15 oz) chickpeas, drained",
+      "1/4 cup tahini",
+      "3 tablespoons lemon juice",
+      "2 tablespoons olive oil",
+      "1 clove garlic",
+      "1/2 teaspoon cumin",
+      "Salt",
+      "Carrots, celery, bell pepper"
+    ],
+    "steps": [
+      "Add chickpeas, tahini, lemon juice, olive oil, garlic, cumin, and salt to food processor",
+      "Blend until smooth",
+      "Add water if too thick",
+      "Transfer to bowl, drizzle with olive oil",
+      "Cut vegetables into sticks",
+      "Sprinkle hummus with paprika and serve"
+    ],
+    "nutrition": {
+      "calories": 200,
+      "protein": 8,
+      "fat": 12,
+      "carbs": 18,
+      "fiber": 5,
+      "servingSize": "4 servings"
+    },
+    "imageURL": "https://www.themealdb.com/images/media/meals/gpon5u1763801180.jpg",
+    "youtubeURL": "https://www.youtube.com/watch?v=EsZFJEjANiA"
+  },
+  {
+    "title": "Energy Balls",
+    "category": "Snack",
+    "ingredients": [
+      "1 cup rolled oats",
+      "1/2 cup peanut butter",
+      "1/3 cup honey",
+      "1/2 cup chocolate chips",
+      "1/4 cup ground flaxseed",
+      "1 teaspoon vanilla"
+    ],
+    "steps": [
+      "Combine all ingredients in a bowl",
+      "Refrigerate 30 minutes",
+      "Roll into 1-inch balls",
+      "Place on parchment-lined tray",
+      "Refrigerate 1 hour before serving",
+      "Store in fridge up to one week"
+    ],
+    "nutrition": {
+      "calories": 95,
+      "protein": 3,
+      "fat": 5,
+      "carbs": 12,
+      "fiber": 1,
+      "sugar": 7,
+      "servingSize": "12 balls"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=DVVaWdE3yoU",
+    "imageURL": "https://img.youtube.com/vi/DVVaWdE3yoU/hqdefault.jpg"
+  },
+  {
+    "title": "Trail Mix",
+    "category": "Snack",
+    "ingredients": [
+      "1 cup almonds",
+      "1 cup cashews",
+      "1/2 cup pumpkin seeds",
+      "1/2 cup dried cranberries",
+      "1/2 cup dark chocolate chips",
+      "1/4 cup coconut flakes"
+    ],
+    "steps": [
+      "Combine all ingredients in a large bowl",
+      "Toss to distribute evenly",
+      "Divide into portion-sized bags or containers",
+      "Store in an airtight container at room temperature"
+    ],
+    "nutrition": {
+      "calories": 210,
+      "protein": 6,
+      "fat": 14,
+      "carbs": 18,
+      "fiber": 3,
+      "sugar": 8,
+      "servingSize": "8 servings"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=mx4SHT4uutI",
+    "imageURL": "https://img.youtube.com/vi/mx4SHT4uutI/hqdefault.jpg"
+  },
+  {
+    "title": "Cheese and Crackers Board",
+    "category": "Snack",
+    "ingredients": [
+      "4 oz sharp cheddar, cubed",
+      "4 oz brie",
+      "4 oz gouda, sliced",
+      "Assorted crackers",
+      "1/2 cup grapes",
+      "1/4 cup dried apricots",
+      "1/4 cup mixed nuts",
+      "2 tablespoons honey"
+    ],
+    "steps": [
+      "Arrange cheeses on a board, leaving space between them",
+      "Fill gaps with crackers",
+      "Add clusters of grapes and dried apricots",
+      "Place small piles of mixed nuts around the board",
+      "Drizzle honey into a small dish and place on the board",
+      "Serve at room temperature for best flavor"
+    ],
+    "nutrition": {
+      "calories": 280,
+      "protein": 12,
+      "fat": 18,
+      "carbs": 18,
+      "fiber": 1,
+      "servingSize": "6 servings"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=wXC1wANXew4",
+    "imageURL": "https://img.youtube.com/vi/wXC1wANXew4/hqdefault.jpg"
+  },
+  {
+    "title": "Apple Slices with Peanut Butter",
+    "category": "Snack",
+    "ingredients": [
+      "2 large apples",
+      "4 tablespoons peanut butter",
+      "1 tablespoon honey",
+      "Granola for sprinkling",
+      "Mini chocolate chips"
+    ],
+    "steps": [
+      "Core apples and slice into wedges",
+      "Spread peanut butter on each slice or serve in a bowl for dipping",
+      "Drizzle with honey",
+      "Sprinkle with granola and mini chocolate chips"
+    ],
+    "nutrition": {
+      "calories": 240,
+      "protein": 6,
+      "fat": 12,
+      "carbs": 30,
+      "fiber": 4,
+      "sugar": 20,
+      "servingSize": "2 servings"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=vnJuEjin8x8",
+    "imageURL": "https://img.youtube.com/vi/vnJuEjin8x8/hqdefault.jpg"
+  },
+  {
+    "title": "Caprese Skewers",
+    "category": "Snack",
+    "ingredients": [
+      "1 pint cherry tomatoes",
+      "8 oz fresh mozzarella balls (bocconcini)",
+      "Fresh basil leaves",
+      "2 tablespoons balsamic glaze",
+      "1 tablespoon olive oil",
+      "Salt and pepper"
+    ],
+    "steps": [
+      "Thread a tomato, basil leaf, and mozzarella ball onto each skewer",
+      "Arrange on a platter",
+      "Drizzle with olive oil and balsamic glaze",
+      "Season with salt and pepper",
+      "Serve at room temperature"
+    ],
+    "nutrition": {
+      "calories": 160,
+      "protein": 10,
+      "fat": 12,
+      "carbs": 4,
+      "fiber": 0,
+      "servingSize": "4 servings"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=Td19hOL8b54",
+    "imageURL": "https://img.youtube.com/vi/Td19hOL8b54/hqdefault.jpg"
+  },
+  {
+    "title": "Roasted Chickpeas",
+    "category": "Snack",
+    "ingredients": [
+      "2 cans (15 oz each) chickpeas, drained",
+      "2 tablespoons olive oil",
+      "1 teaspoon smoked paprika",
+      "1/2 teaspoon garlic powder",
+      "1/2 teaspoon cumin",
+      "Salt and pepper"
+    ],
+    "steps": [
+      "Preheat oven to 400°F",
+      "Pat chickpeas very dry with paper towels",
+      "Toss with olive oil, paprika, garlic powder, cumin, salt, and pepper",
+      "Spread in a single layer on a baking sheet",
+      "Bake 30-40 minutes, shaking pan halfway, until very crispy",
+      "Let cool completely — they crisp up more as they cool"
+    ],
+    "nutrition": {
+      "calories": 170,
+      "protein": 8,
+      "fat": 6,
+      "carbs": 22,
+      "fiber": 6,
+      "servingSize": "4 servings"
+    },
+    "imageURL": "https://www.themealdb.com/images/media/meals/tvtxpq1511464705.jpg",
+    "youtubeURL": "https://www.youtube.com/watch?v=LGY3V7EGpT0"
+  },
+  {
+    "title": "Yogurt Dip with Pita",
+    "category": "Snack",
+    "ingredients": [
+      "1 cup Greek yogurt",
+      "1/2 cucumber, grated and squeezed dry",
+      "1 clove garlic, minced",
+      "1 tablespoon lemon juice",
+      "1 tablespoon olive oil",
+      "1 tablespoon fresh dill",
+      "Salt and pepper",
+      "4 pita breads, cut into triangles"
+    ],
+    "steps": [
+      "Mix yogurt with grated cucumber and garlic",
+      "Stir in lemon juice, olive oil, and dill",
+      "Season with salt and pepper",
+      "Refrigerate 30 minutes to let flavors meld",
+      "Toast pita triangles in the oven at 375°F for 5 minutes",
+      "Serve dip cold with warm pita"
+    ],
+    "nutrition": {
+      "calories": 180,
+      "protein": 8,
+      "fat": 6,
+      "carbs": 24,
+      "fiber": 1,
+      "servingSize": "4 servings"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=LWPcRySCKIc",
+    "imageURL": "https://img.youtube.com/vi/LWPcRySCKIc/hqdefault.jpg"
+  },
+  {
+    "title": "Stuffed Dates",
+    "category": "Snack",
+    "ingredients": [
+      "12 Medjool dates",
+      "4 tablespoons almond butter",
+      "2 tablespoons dark chocolate chips, melted",
+      "Flaky sea salt",
+      "12 whole almonds"
+    ],
+    "steps": [
+      "Slice each date lengthwise and remove the pit",
+      "Fill each date with a teaspoon of almond butter",
+      "Press an almond into the top of each",
+      "Drizzle with melted dark chocolate",
+      "Sprinkle with flaky sea salt",
+      "Refrigerate 15 minutes until chocolate sets"
+    ],
+    "nutrition": {
+      "calories": 120,
+      "protein": 2,
+      "fat": 5,
+      "carbs": 18,
+      "sugar": 16,
+      "servingSize": "12 dates"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=qvQd3AMk32k",
+    "imageURL": "https://img.youtube.com/vi/qvQd3AMk32k/hqdefault.jpg"
+  },
+  {
+    "title": "Popcorn Three Ways",
+    "category": "Snack",
+    "ingredients": [
+      "1/2 cup popcorn kernels",
+      "3 tablespoons coconut oil",
+      "For savory: nutritional yeast and garlic powder",
+      "For sweet: cinnamon sugar",
+      "For spicy: chili lime seasoning",
+      "Salt"
+    ],
+    "steps": [
+      "Heat coconut oil in a large pot over medium heat",
+      "Add popcorn kernels, cover with a lid",
+      "Shake pot occasionally until popping slows",
+      "Divide popcorn into three bowls",
+      "Season one with nutritional yeast and garlic powder",
+      "Season one with cinnamon and sugar",
+      "Season one with chili lime and salt"
+    ],
+    "nutrition": {
+      "calories": 120,
+      "protein": 2,
+      "fat": 6,
+      "carbs": 16,
+      "fiber": 3,
+      "servingSize": "6 servings"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=DaaLEVqc1rU",
+    "imageURL": "https://img.youtube.com/vi/DaaLEVqc1rU/hqdefault.jpg"
+  },
+  {
+    "title": "Ants on a Log",
+    "category": "Snack",
+    "ingredients": [
+      "4 celery stalks",
+      "4 tablespoons peanut butter",
+      "2 tablespoons raisins"
+    ],
+    "steps": [
+      "Wash and cut celery stalks into 3-inch pieces",
+      "Fill the groove of each celery piece with peanut butter",
+      "Press raisins into the peanut butter",
+      "Arrange on a plate and serve",
+      "Great for kids and adults alike"
+    ],
+    "nutrition": {
+      "calories": 160,
+      "protein": 5,
+      "fat": 10,
+      "carbs": 14,
+      "fiber": 2,
+      "sugar": 8,
+      "servingSize": "2 servings"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=RxpMQlmcGpU",
+    "imageURL": "https://img.youtube.com/vi/RxpMQlmcGpU/hqdefault.jpg"
+  },
+  {
+    "title": "Frozen Yogurt Bark",
+    "category": "Snack",
+    "ingredients": [
+      "2 cups Greek yogurt",
+      "2 tablespoons honey",
+      "1/2 cup mixed berries",
+      "2 tablespoons granola",
+      "1 tablespoon mini chocolate chips",
+      "1 tablespoon coconut flakes"
+    ],
+    "steps": [
+      "Mix yogurt with honey",
+      "Spread evenly on a parchment-lined baking sheet",
+      "Scatter berries, granola, chocolate chips, and coconut on top",
+      "Press toppings gently into the yogurt",
+      "Freeze for at least 3 hours until solid",
+      "Break into pieces and serve immediately"
+    ],
+    "nutrition": {
+      "calories": 100,
+      "protein": 6,
+      "fat": 3,
+      "carbs": 14,
+      "fiber": 1,
+      "sugar": 10,
+      "servingSize": "6 servings"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=cz7I3aCCxpg",
+    "imageURL": "https://img.youtube.com/vi/cz7I3aCCxpg/hqdefault.jpg"
+  },
+  {
+    "title": "Cucumber Bites",
+    "category": "Snack",
+    "ingredients": [
+      "2 large cucumbers",
+      "4 oz cream cheese, softened",
+      "1 tablespoon fresh dill",
+      "1 teaspoon lemon zest",
+      "Smoked salmon or everything bagel seasoning",
+      "Salt and pepper"
+    ],
+    "steps": [
+      "Slice cucumbers into 1/2-inch thick rounds",
+      "Mix cream cheese with dill, lemon zest, salt, and pepper",
+      "Pipe or spread cream cheese mixture onto each cucumber round",
+      "Top with a small piece of smoked salmon or sprinkle with everything bagel seasoning",
+      "Arrange on a platter and serve"
+    ],
+    "nutrition": {
+      "calories": 80,
+      "protein": 3,
+      "fat": 6,
+      "carbs": 4,
+      "fiber": 1,
+      "servingSize": "4 servings"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=rXW2HjppzS8",
+    "imageURL": "https://img.youtube.com/vi/rXW2HjppzS8/hqdefault.jpg"
+  },
+  {
+    "title": "Banana Ice Cream",
+    "category": "Snack",
+    "ingredients": [
+      "4 frozen bananas",
+      "2 tablespoons peanut butter",
+      "1 tablespoon cocoa powder",
+      "1/4 cup almond milk",
+      "Toppings: chopped nuts, chocolate chips"
+    ],
+    "steps": [
+      "Slice frozen bananas into coins before freezing",
+      "Blend frozen banana coins in a food processor until crumbly",
+      "Add peanut butter, cocoa powder, and almond milk",
+      "Continue blending until smooth and creamy like soft serve",
+      "Scoop into bowls and add toppings",
+      "Serve immediately or freeze 30 minutes for firmer texture"
+    ],
+    "nutrition": {
+      "calories": 180,
+      "protein": 4,
+      "fat": 6,
+      "carbs": 32,
+      "fiber": 4,
+      "sugar": 18,
+      "servingSize": "4 servings"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=Vqt5mjhlrUY",
+    "imageURL": "https://img.youtube.com/vi/Vqt5mjhlrUY/hqdefault.jpg"
+  },
+  {
+    "title": "Edamame",
+    "category": "Snack",
+    "ingredients": [
+      "1 lb frozen edamame in pods",
+      "1 tablespoon sesame oil",
+      "1 teaspoon flaky sea salt",
+      "1/2 teaspoon garlic powder",
+      "Sesame seeds"
+    ],
+    "steps": [
+      "Boil edamame in salted water for 3-4 minutes",
+      "Drain and toss with sesame oil",
+      "Season with sea salt and garlic powder",
+      "Sprinkle with sesame seeds",
+      "Serve warm — squeeze pods to eat the beans"
+    ],
+    "nutrition": {
+      "calories": 120,
+      "protein": 10,
+      "fat": 6,
+      "carbs": 8,
+      "fiber": 4,
+      "servingSize": "4 servings"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=mykGd5EWD4M",
+    "imageURL": "https://img.youtube.com/vi/mykGd5EWD4M/hqdefault.jpg"
+  },
+  {
+    "title": "Deviled Eggs",
+    "category": "Snack",
+    "ingredients": [
+      "6 hard-boiled eggs",
+      "3 tablespoons mayonnaise",
+      "1 teaspoon Dijon mustard",
+      "1 teaspoon white vinegar",
+      "Salt and pepper",
+      "Paprika and chives for garnish"
+    ],
+    "steps": [
+      "Peel eggs and cut in half lengthwise",
+      "Remove yolks and place in a bowl",
+      "Mash yolks with mayonnaise, mustard, vinegar, salt, and pepper",
+      "Pipe or spoon filling back into egg white halves",
+      "Garnish with paprika and chopped chives",
+      "Chill until ready to serve"
+    ],
+    "nutrition": {
+      "calories": 70,
+      "protein": 4,
+      "fat": 6,
+      "carbs": 0,
+      "fiber": 0,
+      "servingSize": "12 halves"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=GG95cDgmue4",
+    "imageURL": "https://img.youtube.com/vi/GG95cDgmue4/hqdefault.jpg"
+  },
+  {
+    "title": "Sweet Potato Fries",
+    "category": "Snack",
+    "ingredients": [
+      "2 large sweet potatoes",
+      "2 tablespoons olive oil",
+      "1 teaspoon smoked paprika",
+      "1/2 teaspoon garlic powder",
+      "Salt and pepper",
+      "Ranch or ketchup for dipping"
+    ],
+    "steps": [
+      "Preheat oven to 425°F",
+      "Cut sweet potatoes into 1/4-inch thick fries",
+      "Toss with olive oil, paprika, garlic powder, salt, and pepper",
+      "Spread in a single layer on two baking sheets",
+      "Bake 20-25 minutes, flipping halfway, until crispy",
+      "Serve hot with dipping sauce"
+    ],
+    "nutrition": {
+      "calories": 180,
+      "protein": 2,
+      "fat": 7,
+      "carbs": 28,
+      "fiber": 4,
+      "sugar": 6,
+      "servingSize": "4 servings"
+    },
+    "imageURL": "https://www.themealdb.com/images/media/meals/z458v91763817681.jpg",
+    "youtubeURL": "https://www.youtube.com/watch?v=RkiKSO0IuVQ"
+  },
+  {
+    "title": "Rice Cake Bites",
+    "category": "Snack",
+    "ingredients": [
+      "4 rice cakes",
+      "4 tablespoons almond butter",
+      "1 banana, sliced",
+      "1 tablespoon honey",
+      "Cinnamon for dusting"
+    ],
+    "steps": [
+      "Spread almond butter on each rice cake",
+      "Top with banana slices",
+      "Drizzle with honey",
+      "Dust with cinnamon",
+      "Cut in half or serve whole"
+    ],
+    "nutrition": {
+      "calories": 180,
+      "protein": 5,
+      "fat": 8,
+      "carbs": 24,
+      "fiber": 2,
+      "sugar": 12,
+      "servingSize": "4 servings"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=rLV2M_LOTME",
+    "imageURL": "https://img.youtube.com/vi/rLV2M_LOTME/hqdefault.jpg"
+  },
+  {
+    "title": "Bruschetta",
+    "category": "Appetizer",
+    "ingredients": [
+      "1 French baguette, sliced",
+      "4 roma tomatoes, diced",
+      "1/4 cup fresh basil, chopped",
+      "2 cloves garlic, minced",
+      "2 tablespoons olive oil",
+      "1 tablespoon balsamic vinegar",
+      "Salt and pepper"
+    ],
+    "steps": [
+      "Preheat oven to 400°F",
+      "Brush baguette slices with olive oil, toast 5-7 minutes",
+      "Mix tomatoes, basil, garlic, olive oil, and balsamic vinegar",
+      "Season with salt and pepper",
+      "Spoon onto toasted bread",
+      "Serve immediately"
+    ],
+    "nutrition": {
+      "calories": 150,
+      "protein": 4,
+      "fat": 6,
+      "carbs": 20,
+      "fiber": 2,
+      "servingSize": "6 servings"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=Q3xg35pcLyo",
+    "imageURL": "https://img.youtube.com/vi/Q3xg35pcLyo/hqdefault.jpg"
+  },
+  {
+    "title": "Spinach Artichoke Dip",
+    "category": "Appetizer",
+    "ingredients": [
+      "10 oz frozen spinach, thawed and drained",
+      "1 can artichoke hearts, chopped",
+      "8 oz cream cheese",
+      "1/2 cup sour cream",
+      "1/2 cup Parmesan, grated",
+      "1 cup mozzarella, shredded",
+      "2 cloves garlic, minced",
+      "Salt and pepper"
+    ],
+    "steps": [
+      "Preheat oven to 350°F",
+      "Squeeze water from spinach",
+      "Mix cream cheese, sour cream, Parmesan, and half the mozzarella",
+      "Stir in spinach, artichokes, and garlic",
+      "Transfer to a baking dish, top with remaining mozzarella",
+      "Bake 25-30 minutes until bubbly",
+      "Serve with pita chips or bread"
+    ],
+    "nutrition": {
+      "calories": 180,
+      "protein": 10,
+      "fat": 14,
+      "carbs": 6,
+      "fiber": 2,
+      "servingSize": "8 servings"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=vVGJgihkM6w",
+    "imageURL": "https://img.youtube.com/vi/vVGJgihkM6w/hqdefault.jpg"
+  },
+  {
+    "title": "Stuffed Mushrooms",
+    "category": "Appetizer",
+    "ingredients": [
+      "20 baby bella mushrooms",
+      "8 oz cream cheese, softened",
+      "1/4 cup Parmesan, grated",
+      "3 cloves garlic, minced",
+      "2 tablespoons fresh parsley",
+      "1/4 cup breadcrumbs",
+      "2 tablespoons butter, melted",
+      "Salt and pepper"
+    ],
+    "steps": [
+      "Preheat oven to 375°F",
+      "Remove mushroom stems, scoop out gills",
+      "Mix cream cheese, Parmesan, garlic, parsley, salt, and pepper",
+      "Fill each mushroom cap with the mixture",
+      "Mix breadcrumbs with melted butter, sprinkle on top",
+      "Bake 20-25 minutes until golden and mushrooms are tender",
+      "Serve warm"
+    ],
+    "nutrition": {
+      "calories": 80,
+      "protein": 3,
+      "fat": 6,
+      "carbs": 4,
+      "fiber": 0,
+      "servingSize": "20 mushrooms"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=Wfvad1v155c",
+    "imageURL": "https://img.youtube.com/vi/Wfvad1v155c/hqdefault.jpg"
+  },
+  {
+    "title": "Shrimp Cocktail",
+    "category": "Appetizer",
+    "ingredients": [
+      "1 lb large shrimp, peeled and deveined",
+      "1/2 cup ketchup",
+      "2 tablespoons horseradish",
+      "1 tablespoon lemon juice",
+      "1 teaspoon Worcestershire sauce",
+      "Lemon wedges",
+      "Fresh parsley"
+    ],
+    "steps": [
+      "Bring a large pot of salted water to a boil",
+      "Cook shrimp 2-3 minutes until pink and curled",
+      "Transfer to ice water to stop cooking",
+      "Mix ketchup, horseradish, lemon juice, and Worcestershire for cocktail sauce",
+      "Arrange shrimp around a glass with cocktail sauce in the center",
+      "Garnish with lemon wedges and parsley"
+    ],
+    "nutrition": {
+      "calories": 160,
+      "protein": 22,
+      "fat": 2,
+      "carbs": 12,
+      "fiber": 0,
+      "servingSize": "4 servings"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=WruY26Af3VU",
+    "imageURL": "https://img.youtube.com/vi/WruY26Af3VU/hqdefault.jpg"
+  },
+  {
+    "title": "Meatballs in Marinara",
+    "category": "Appetizer",
+    "ingredients": [
+      "1 lb ground beef",
+      "1/3 cup breadcrumbs",
+      "1 egg",
+      "2 cloves garlic, minced",
+      "1/4 cup Parmesan, grated",
+      "1 teaspoon Italian seasoning",
+      "2 cups marinara sauce",
+      "Fresh basil",
+      "Salt and pepper"
+    ],
+    "steps": [
+      "Mix ground beef, breadcrumbs, egg, garlic, Parmesan, Italian seasoning, salt, and pepper",
+      "Roll into 1-inch meatballs",
+      "Brown meatballs in a skillet with olive oil on all sides",
+      "Pour marinara sauce into the skillet",
+      "Simmer 15-20 minutes until meatballs are cooked through",
+      "Garnish with fresh basil",
+      "Serve with toothpicks or small bread slices"
+    ],
+    "nutrition": {
+      "calories": 200,
+      "protein": 16,
+      "fat": 12,
+      "carbs": 8,
+      "fiber": 1,
+      "servingSize": "6 servings"
+    },
+    "imageURL": "https://www.themealdb.com/images/media/meals/72fgzj1764109947.jpg",
+    "youtubeURL": "https://www.youtube.com/watch?v=o0UbzRZw-GQ"
+  },
+  {
+    "title": "Cheese Quesadilla Bites",
+    "category": "Appetizer",
+    "ingredients": [
+      "4 flour tortillas",
+      "2 cups shredded Mexican cheese blend",
+      "1/4 cup diced jalapeños",
+      "2 tablespoons butter",
+      "Salsa and sour cream for dipping"
+    ],
+    "steps": [
+      "Melt butter in a skillet over medium heat",
+      "Place a tortilla in the skillet",
+      "Sprinkle with cheese and jalapeños",
+      "Top with another tortilla",
+      "Cook 2 minutes per side until golden and cheese melts",
+      "Cut into small triangles",
+      "Serve with salsa and sour cream"
+    ],
+    "nutrition": {
+      "calories": 180,
+      "protein": 8,
+      "fat": 12,
+      "carbs": 12,
+      "fiber": 1,
+      "servingSize": "8 servings"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=xrITZxcjMfU",
+    "imageURL": "https://img.youtube.com/vi/xrITZxcjMfU/hqdefault.jpg"
+  },
+  {
+    "title": "Bacon-Wrapped Dates",
+    "category": "Appetizer",
+    "ingredients": [
+      "16 Medjool dates, pitted",
+      "16 strips bacon, halved",
+      "4 oz goat cheese",
+      "16 toothpicks",
+      "Balsamic glaze for drizzling"
+    ],
+    "steps": [
+      "Preheat oven to 400°F",
+      "Stuff each date with a small piece of goat cheese",
+      "Wrap each date with a half strip of bacon",
+      "Secure with a toothpick",
+      "Place on a baking sheet lined with parchment",
+      "Bake 15-18 minutes until bacon is crispy",
+      "Drizzle with balsamic glaze and serve"
+    ],
+    "nutrition": {
+      "calories": 120,
+      "protein": 4,
+      "fat": 6,
+      "carbs": 12,
+      "sugar": 10,
+      "servingSize": "16 pieces"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=Y35L5OkF-Uo",
+    "imageURL": "https://img.youtube.com/vi/Y35L5OkF-Uo/hqdefault.jpg"
+  },
+  {
+    "title": "Crab Cakes",
+    "category": "Appetizer",
+    "ingredients": [
+      "1 lb lump crab meat",
+      "1/3 cup mayonnaise",
+      "1 egg",
+      "1 tablespoon Dijon mustard",
+      "1 tablespoon Worcestershire sauce",
+      "1 cup panko breadcrumbs",
+      "2 green onions, sliced",
+      "1 teaspoon Old Bay seasoning",
+      "2 tablespoons butter"
+    ],
+    "steps": [
+      "Pick through crab meat for shells",
+      "Mix mayo, egg, mustard, Worcestershire, green onions, and Old Bay",
+      "Gently fold in crab meat and enough panko to bind",
+      "Form into 8 patties",
+      "Chill for 30 minutes",
+      "Pan-fry in butter 3-4 minutes per side until golden",
+      "Serve with lemon wedges and tartar sauce"
+    ],
+    "nutrition": {
+      "calories": 180,
+      "protein": 14,
+      "fat": 10,
+      "carbs": 8,
+      "fiber": 0,
+      "servingSize": "8 cakes"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=6wWvq8gBy0Q",
+    "imageURL": "https://img.youtube.com/vi/6wWvq8gBy0Q/hqdefault.jpg"
+  },
+  {
+    "title": "Pigs in a Blanket",
+    "category": "Appetizer",
+    "ingredients": [
+      "1 package cocktail sausages",
+      "1 can refrigerated crescent roll dough",
+      "2 tablespoons melted butter",
+      "Sesame seeds",
+      "Yellow mustard for dipping"
+    ],
+    "steps": [
+      "Preheat oven to 375°F",
+      "Unroll crescent dough and cut each triangle into 3 strips",
+      "Wrap each sausage with a strip of dough",
+      "Place on a baking sheet seam-side down",
+      "Brush with melted butter and sprinkle with sesame seeds",
+      "Bake 12-15 minutes until golden",
+      "Serve with mustard for dipping"
+    ],
+    "nutrition": {
+      "calories": 100,
+      "protein": 4,
+      "fat": 7,
+      "carbs": 6,
+      "fiber": 0,
+      "servingSize": "24 pieces"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=r48AbJ3YmT4",
+    "imageURL": "https://img.youtube.com/vi/r48AbJ3YmT4/hqdefault.jpg"
+  },
+  {
+    "title": "Caprese Flatbread",
+    "category": "Appetizer",
+    "ingredients": [
+      "2 naan breads or flatbreads",
+      "1 cup cherry tomatoes, halved",
+      "8 oz fresh mozzarella, sliced",
+      "Fresh basil leaves",
+      "2 tablespoons olive oil",
+      "Balsamic glaze",
+      "Salt and pepper"
+    ],
+    "steps": [
+      "Preheat oven to 400°F",
+      "Place flatbreads on a baking sheet",
+      "Drizzle with olive oil",
+      "Top with mozzarella slices and cherry tomatoes",
+      "Season with salt and pepper",
+      "Bake 8-10 minutes until cheese melts",
+      "Top with fresh basil and drizzle with balsamic glaze",
+      "Cut into pieces and serve"
+    ],
+    "nutrition": {
+      "calories": 200,
+      "protein": 10,
+      "fat": 12,
+      "carbs": 14,
+      "fiber": 1,
+      "servingSize": "4 servings"
+    },
+    "imageURL": "https://www.themealdb.com/images/media/meals/8825lo1763815264.jpg",
+    "youtubeURL": "https://www.youtube.com/watch?v=s_ilia2LZ4U"
+  },
+  {
+    "title": "Korean Fried Cauliflower",
+    "category": "Appetizer",
+    "ingredients": [
+      "1 head cauliflower, cut into florets",
+      "1 cup flour",
+      "1 cup cold water",
+      "1/2 cup cornstarch",
+      "3 tablespoons gochujang",
+      "2 tablespoons soy sauce",
+      "2 tablespoons honey",
+      "1 tablespoon sesame oil",
+      "Sesame seeds and green onions"
+    ],
+    "steps": [
+      "Mix flour, cornstarch, and water into a batter",
+      "Heat oil for frying to 375°F",
+      "Dip cauliflower in batter and fry until golden, about 4 minutes",
+      "Drain on paper towels",
+      "Mix gochujang, soy sauce, honey, and sesame oil in a pan over medium heat",
+      "Toss fried cauliflower in the sauce",
+      "Garnish with sesame seeds and green onions"
+    ],
+    "nutrition": {
+      "calories": 180,
+      "protein": 4,
+      "fat": 6,
+      "carbs": 28,
+      "fiber": 3,
+      "servingSize": "6 servings"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=zjunXfBZEI0",
+    "imageURL": "https://img.youtube.com/vi/zjunXfBZEI0/hqdefault.jpg"
+  },
+  {
+    "title": "Baked Brie",
+    "category": "Appetizer",
+    "ingredients": [
+      "1 wheel (8 oz) brie cheese",
+      "1/4 cup honey",
+      "1/4 cup chopped walnuts",
+      "1 tablespoon fresh thyme leaves",
+      "Crackers and sliced baguette"
+    ],
+    "steps": [
+      "Preheat oven to 350°F",
+      "Place brie on a parchment-lined baking sheet",
+      "Score the top of the brie in a crosshatch pattern",
+      "Bake for 10-12 minutes until soft but not melting",
+      "Drizzle with honey",
+      "Sprinkle with walnuts and thyme",
+      "Serve immediately with crackers and bread"
+    ],
+    "nutrition": {
+      "calories": 160,
+      "protein": 6,
+      "fat": 12,
+      "carbs": 8,
+      "sugar": 6,
+      "servingSize": "6 servings"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=wvJINdDQr8s",
+    "imageURL": "https://img.youtube.com/vi/wvJINdDQr8s/hqdefault.jpg"
+  },
+  {
+    "title": "Loaded Potato Skins",
+    "category": "Appetizer",
+    "ingredients": [
+      "6 russet potatoes",
+      "1 cup shredded cheddar",
+      "6 slices bacon, crumbled",
+      "1/2 cup sour cream",
+      "3 green onions, sliced",
+      "2 tablespoons olive oil",
+      "Salt and pepper"
+    ],
+    "steps": [
+      "Bake potatoes at 400°F for 1 hour until tender",
+      "Cut in half, scoop out most of the flesh (save for another use)",
+      "Brush skins with olive oil, season with salt and pepper",
+      "Bake cut-side up for 10 minutes until crispy",
+      "Fill with cheddar and bacon",
+      "Bake 5 more minutes until cheese melts",
+      "Top with sour cream and green onions"
+    ],
+    "nutrition": {
+      "calories": 220,
+      "protein": 10,
+      "fat": 14,
+      "carbs": 14,
+      "fiber": 1,
+      "servingSize": "12 skins"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=5MLQTJ6exKg",
+    "imageURL": "https://img.youtube.com/vi/5MLQTJ6exKg/hqdefault.jpg"
+  },
+  {
+    "title": "Spring Rolls",
+    "category": "Appetizer",
+    "ingredients": [
+      "8 rice paper wrappers",
+      "1 cup cooked rice noodles",
+      "1 cup shredded lettuce",
+      "1 cup shredded carrots",
+      "1/2 cucumber, julienned",
+      "Fresh mint and cilantro",
+      "1/4 cup peanut sauce for dipping"
+    ],
+    "steps": [
+      "Dip rice paper in warm water for 10 seconds until pliable",
+      "Lay flat on a work surface",
+      "Place a small amount of noodles, lettuce, carrots, cucumber, and herbs in the center",
+      "Fold the bottom up, fold in sides, then roll tightly",
+      "Repeat with remaining wrappers",
+      "Serve with peanut dipping sauce"
+    ],
+    "nutrition": {
+      "calories": 120,
+      "protein": 3,
+      "fat": 2,
+      "carbs": 24,
+      "fiber": 2,
+      "servingSize": "8 rolls"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=RxfXpenABrA",
+    "imageURL": "https://img.youtube.com/vi/RxfXpenABrA/hqdefault.jpg"
+  },
+  {
+    "title": "Jalapeño Poppers",
+    "category": "Appetizer",
+    "ingredients": [
+      "12 jalapeño peppers",
+      "8 oz cream cheese, softened",
+      "1 cup shredded cheddar",
+      "6 slices bacon, cooked and crumbled",
+      "1/2 teaspoon garlic powder",
+      "Salt and pepper"
+    ],
+    "steps": [
+      "Preheat oven to 400°F",
+      "Cut jalapeños in half lengthwise, remove seeds and membranes",
+      "Mix cream cheese, cheddar, bacon, garlic powder, salt, and pepper",
+      "Fill each jalapeño half with the mixture",
+      "Place on a baking sheet",
+      "Bake 20-25 minutes until jalapeños are tender and filling is bubbly",
+      "Let cool slightly before serving — they're hot!"
+    ],
+    "nutrition": {
+      "calories": 90,
+      "protein": 4,
+      "fat": 7,
+      "carbs": 2,
+      "fiber": 0,
+      "servingSize": "24 halves"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=7gCMyaBwwwI",
+    "imageURL": "https://img.youtube.com/vi/7gCMyaBwwwI/hqdefault.jpg"
+  },
+  {
+    "title": "Antipasto Skewers",
+    "category": "Appetizer",
+    "ingredients": [
+      "8 oz fresh mozzarella balls",
+      "1 cup cherry tomatoes",
+      "1 cup marinated artichoke hearts",
+      "4 oz salami, folded",
+      "1/2 cup Kalamata olives",
+      "Fresh basil leaves",
+      "Balsamic glaze"
+    ],
+    "steps": [
+      "Thread ingredients onto wooden skewers alternating: salami fold, mozzarella, tomato, artichoke, olive, and basil",
+      "Arrange skewers on a platter",
+      "Drizzle with balsamic glaze",
+      "Serve at room temperature"
+    ],
+    "nutrition": {
+      "calories": 160,
+      "protein": 10,
+      "fat": 12,
+      "carbs": 4,
+      "fiber": 1,
+      "servingSize": "8 skewers"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=o6yK3JmKHsE",
+    "imageURL": "https://img.youtube.com/vi/o6yK3JmKHsE/hqdefault.jpg"
+  },
+  {
+    "title": "Coconut Shrimp",
+    "category": "Appetizer",
+    "ingredients": [
+      "1 lb large shrimp, peeled",
+      "1 cup shredded coconut",
+      "1/2 cup panko breadcrumbs",
+      "1/2 cup flour",
+      "2 eggs, beaten",
+      "Salt and pepper",
+      "Vegetable oil for frying",
+      "Sweet chili sauce"
+    ],
+    "steps": [
+      "Mix coconut and panko in a bowl",
+      "Set up breading station: flour, beaten eggs, coconut-panko mixture",
+      "Dredge shrimp in flour, dip in egg, coat in coconut mixture",
+      "Heat oil to 350°F",
+      "Fry shrimp 2-3 minutes per side until golden",
+      "Drain on paper towels",
+      "Serve with sweet chili sauce"
+    ],
+    "nutrition": {
+      "calories": 180,
+      "protein": 14,
+      "fat": 8,
+      "carbs": 14,
+      "fiber": 2,
+      "servingSize": "4 servings"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=njySogPj1ZQ",
+    "imageURL": "https://img.youtube.com/vi/njySogPj1ZQ/hqdefault.jpg"
+  },
+  {
+    "title": "Deviled Egg Dip",
+    "category": "Appetizer",
+    "ingredients": [
+      "8 hard-boiled eggs",
+      "1/3 cup mayonnaise",
+      "2 teaspoons Dijon mustard",
+      "1 teaspoon white vinegar",
+      "Salt and pepper",
+      "Paprika and chives",
+      "Crackers or crostini"
+    ],
+    "steps": [
+      "Chop hard-boiled eggs finely",
+      "Mix with mayonnaise, mustard, vinegar, salt, and pepper",
+      "Transfer to a serving bowl",
+      "Sprinkle generously with paprika and chopped chives",
+      "Serve with crackers or crostini",
+      "Can be made ahead and refrigerated"
+    ],
+    "nutrition": {
+      "calories": 120,
+      "protein": 8,
+      "fat": 9,
+      "carbs": 1,
+      "fiber": 0,
+      "servingSize": "6 servings"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=XilAxDYsU9c",
+    "imageURL": "https://img.youtube.com/vi/XilAxDYsU9c/hqdefault.jpg"
+  },
+  {
+    "title": "Buffalo Cauliflower Bites",
+    "category": "Appetizer",
+    "ingredients": [
+      "1 head cauliflower, cut into florets",
+      "1/2 cup flour",
+      "1/2 cup milk",
+      "1 teaspoon garlic powder",
+      "1/2 cup hot sauce",
+      "2 tablespoons butter, melted",
+      "Ranch dressing and celery sticks"
+    ],
+    "steps": [
+      "Preheat oven to 450°F",
+      "Mix flour, milk, and garlic powder into a batter",
+      "Toss cauliflower in batter and place on a greased baking sheet",
+      "Bake 20 minutes until lightly crispy",
+      "Mix hot sauce with melted butter",
+      "Toss baked cauliflower in buffalo sauce",
+      "Bake 5 more minutes",
+      "Serve with ranch and celery"
+    ],
+    "nutrition": {
+      "calories": 120,
+      "protein": 4,
+      "fat": 4,
+      "carbs": 18,
+      "fiber": 3,
+      "servingSize": "6 servings"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=Kj8ETEQwYqA",
+    "imageURL": "https://img.youtube.com/vi/Kj8ETEQwYqA/hqdefault.jpg"
+  },
+  {
+    "title": "Minestrone Soup",
+    "category": "Soup",
+    "ingredients": [
+      "2 tablespoons olive oil",
+      "1 onion, diced",
+      "2 carrots, diced",
+      "2 celery stalks, diced",
+      "3 cloves garlic",
+      "1 can diced tomatoes",
+      "4 cups vegetable broth",
+      "1 can kidney beans",
+      "1 cup small pasta",
+      "2 cups spinach",
+      "1 teaspoon Italian seasoning"
+    ],
+    "steps": [
+      "Heat olive oil, cook onion, carrots, and celery 6-7 minutes",
+      "Add garlic and Italian seasoning, cook 1 minute",
+      "Add tomatoes and broth",
+      "Add beans, bring to a boil",
+      "Add pasta, simmer 10 minutes",
+      "Stir in spinach until wilted",
+      "Serve with Parmesan"
+    ],
+    "nutrition": {
+      "calories": 260,
+      "protein": 12,
+      "fat": 6,
+      "carbs": 42,
+      "fiber": 8,
+      "servingSize": "6 servings"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=TTvBfBHa1qQ",
+    "imageURL": "https://img.youtube.com/vi/TTvBfBHa1qQ/hqdefault.jpg"
+  },
+  {
+    "title": "Chicken Tortilla Soup",
+    "category": "Soup",
+    "ingredients": [
+      "2 chicken breasts",
+      "1 can diced tomatoes",
+      "1 can black beans",
+      "1 cup corn",
+      "4 cups chicken broth",
+      "1 onion, diced",
+      "2 cloves garlic",
+      "1 tablespoon cumin",
+      "1 tablespoon chili powder",
+      "Tortilla strips",
+      "Sour cream and avocado"
+    ],
+    "steps": [
+      "Sauté onion until softened",
+      "Add garlic, cumin, and chili powder",
+      "Add broth, tomatoes, beans, and corn",
+      "Add whole chicken breasts, simmer 25 minutes",
+      "Shred chicken, return to pot",
+      "Top with tortilla strips, sour cream, and avocado"
+    ],
+    "nutrition": {
+      "calories": 320,
+      "protein": 28,
+      "fat": 8,
+      "carbs": 36,
+      "fiber": 8,
+      "servingSize": "4 servings"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=wakNvh4kBYs",
+    "imageURL": "https://img.youtube.com/vi/wakNvh4kBYs/hqdefault.jpg"
+  },
+  {
+    "title": "Tomato Basil Soup",
+    "category": "Soup",
+    "ingredients": [
+      "2 cans (28 oz) whole peeled tomatoes",
+      "1 onion, diced",
+      "3 cloves garlic",
+      "2 tablespoons olive oil",
+      "1 cup vegetable broth",
+      "1/2 cup heavy cream",
+      "1/4 cup fresh basil",
+      "Salt and pepper"
+    ],
+    "steps": [
+      "Heat olive oil, sauté onion 5 minutes",
+      "Add garlic, cook 1 minute",
+      "Add tomatoes and broth, simmer 20 minutes",
+      "Blend until smooth with immersion blender",
+      "Stir in heavy cream",
+      "Season with salt and pepper",
+      "Garnish with fresh basil"
+    ],
+    "nutrition": {
+      "calories": 220,
+      "protein": 5,
+      "fat": 14,
+      "carbs": 22,
+      "fiber": 4,
+      "sugar": 12,
+      "servingSize": "4 servings"
+    },
+    "imageURL": "https://www.themealdb.com/images/media/meals/stpuws1511191310.jpg",
+    "youtubeURL": "https://www.youtube.com/watch?v=lBhwjjUiFk4"
+  },
+  {
+    "title": "Chicken Noodle Soup",
+    "category": "Soup",
+    "ingredients": [
+      "2 chicken breasts",
+      "8 cups chicken broth",
+      "3 carrots, diced",
+      "3 celery stalks, diced",
+      "1 onion, diced",
+      "2 cups egg noodles",
+      "2 cloves garlic",
+      "1 bay leaf",
+      "2 tablespoons olive oil",
+      "Fresh parsley",
+      "Salt and pepper"
+    ],
+    "steps": [
+      "Heat olive oil, sauté onion, carrots, and celery 5 minutes",
+      "Add garlic, cook 1 minute",
+      "Add broth, bay leaf, and whole chicken breasts",
+      "Simmer 20 minutes until chicken is cooked",
+      "Remove chicken, shred, return to pot",
+      "Add egg noodles, cook 8 minutes",
+      "Remove bay leaf, garnish with parsley"
+    ],
+    "nutrition": {
+      "calories": 280,
+      "protein": 26,
+      "fat": 8,
+      "carbs": 26,
+      "fiber": 2,
+      "servingSize": "6 servings"
+    },
+    "imageURL": "https://www.themealdb.com/images/media/meals/7kb44y1763589084.jpg",
+    "youtubeURL": "https://www.youtube.com/watch?v=3s4Yitd546w"
+  },
+  {
+    "title": "French Onion Soup",
+    "category": "Soup",
+    "ingredients": [
+      "4 large onions, thinly sliced",
+      "4 tablespoons butter",
+      "6 cups beef broth",
+      "1/2 cup dry white wine",
+      "4 slices French bread",
+      "1.5 cups Gruyère cheese, shredded",
+      "1 tablespoon flour",
+      "1 teaspoon fresh thyme",
+      "Salt and pepper"
+    ],
+    "steps": [
+      "Melt butter in a large pot over medium-low heat",
+      "Add sliced onions and cook slowly for 35-40 minutes until deeply caramelized",
+      "Sprinkle flour over onions, stir 1 minute",
+      "Add wine, scrape up browned bits",
+      "Add beef broth and thyme, simmer 20 minutes",
+      "Ladle into oven-safe bowls",
+      "Top each with a bread slice and shredded Gruyère",
+      "Broil 2-3 minutes until cheese is bubbly and golden"
+    ],
+    "nutrition": {
+      "calories": 360,
+      "protein": 18,
+      "fat": 18,
+      "carbs": 30,
+      "fiber": 3,
+      "servingSize": "4 servings"
+    },
+    "imageURL": "https://www.themealdb.com/images/media/meals/xvrrux1511783685.jpg",
+    "youtubeURL": "https://www.youtube.com/watch?v=-DLDMQucqDI"
+  },
+  {
+    "title": "Butternut Squash Soup",
+    "category": "Soup",
+    "ingredients": [
+      "1 large butternut squash, peeled and cubed",
+      "1 onion, diced",
+      "2 cloves garlic",
+      "3 cups vegetable broth",
+      "1/2 cup heavy cream",
+      "2 tablespoons butter",
+      "1/2 teaspoon nutmeg",
+      "Salt and pepper",
+      "Pumpkin seeds for garnish"
+    ],
+    "steps": [
+      "Melt butter, sauté onion until softened",
+      "Add garlic, cook 1 minute",
+      "Add squash and broth, bring to a boil",
+      "Simmer 20 minutes until squash is tender",
+      "Blend until smooth",
+      "Stir in cream and nutmeg",
+      "Season with salt and pepper",
+      "Garnish with pumpkin seeds"
+    ],
+    "nutrition": {
+      "calories": 240,
+      "protein": 4,
+      "fat": 14,
+      "carbs": 28,
+      "fiber": 4,
+      "sugar": 6,
+      "servingSize": "4 servings"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=q8jaf5mGcn0",
+    "imageURL": "https://img.youtube.com/vi/q8jaf5mGcn0/hqdefault.jpg"
+  },
+  {
+    "title": "Broccoli Cheddar Soup",
+    "category": "Soup",
+    "ingredients": [
+      "4 cups broccoli florets",
+      "2 cups chicken broth",
+      "1.5 cups shredded cheddar",
+      "1 cup milk",
+      "1/2 cup heavy cream",
+      "1 onion, diced",
+      "2 cloves garlic",
+      "3 tablespoons butter",
+      "3 tablespoons flour",
+      "Salt and pepper"
+    ],
+    "steps": [
+      "Melt butter, sauté onion until softened",
+      "Add garlic, cook 1 minute",
+      "Sprinkle in flour, stir 2 minutes to make a roux",
+      "Gradually whisk in broth and milk",
+      "Add broccoli, simmer 15 minutes until tender",
+      "Stir in cream and cheddar until melted and smooth",
+      "Season with salt and pepper"
+    ],
+    "nutrition": {
+      "calories": 320,
+      "protein": 14,
+      "fat": 24,
+      "carbs": 14,
+      "fiber": 3,
+      "servingSize": "4 servings"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=5uSBF_s7Pl4",
+    "imageURL": "https://img.youtube.com/vi/5uSBF_s7Pl4/hqdefault.jpg"
+  },
+  {
+    "title": "Lentil Soup",
+    "category": "Soup",
+    "ingredients": [
+      "1.5 cups dried lentils",
+      "1 can diced tomatoes",
+      "4 cups vegetable broth",
+      "2 carrots, diced",
+      "2 celery stalks, diced",
+      "1 onion, diced",
+      "3 cloves garlic",
+      "2 tablespoons olive oil",
+      "1 teaspoon cumin",
+      "1 teaspoon smoked paprika",
+      "Lemon juice and fresh parsley"
+    ],
+    "steps": [
+      "Heat olive oil, sauté onion, carrots, and celery 5 minutes",
+      "Add garlic, cumin, and paprika, cook 1 minute",
+      "Add lentils, tomatoes, and broth",
+      "Bring to a boil, reduce heat, simmer 25-30 minutes until lentils are tender",
+      "Season with salt, pepper, and a squeeze of lemon",
+      "Garnish with parsley"
+    ],
+    "nutrition": {
+      "calories": 280,
+      "protein": 16,
+      "fat": 6,
+      "carbs": 42,
+      "fiber": 12,
+      "servingSize": "6 servings"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=mdT3tFEug00",
+    "imageURL": "https://img.youtube.com/vi/mdT3tFEug00/hqdefault.jpg"
+  },
+  {
+    "title": "Potato Leek Soup",
+    "category": "Soup",
+    "ingredients": [
+      "4 large potatoes, peeled and cubed",
+      "3 leeks, cleaned and sliced (white and light green parts)",
+      "4 cups chicken broth",
+      "1 cup heavy cream",
+      "3 tablespoons butter",
+      "1/2 teaspoon white pepper",
+      "Salt",
+      "Chives for garnish"
+    ],
+    "steps": [
+      "Melt butter in a large pot",
+      "Add leeks and cook until very soft, about 8 minutes",
+      "Add potatoes and broth, bring to a boil",
+      "Simmer 20 minutes until potatoes are tender",
+      "Blend until smooth (or leave partially chunky)",
+      "Stir in cream, season with salt and white pepper",
+      "Garnish with chives"
+    ],
+    "nutrition": {
+      "calories": 300,
+      "protein": 6,
+      "fat": 18,
+      "carbs": 30,
+      "fiber": 3,
+      "servingSize": "6 servings"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=8esRoGQmOP8",
+    "imageURL": "https://img.youtube.com/vi/8esRoGQmOP8/hqdefault.jpg"
+  },
+  {
+    "title": "Corn Chowder",
+    "category": "Soup",
+    "ingredients": [
+      "6 ears corn, kernels cut off (or 4 cups frozen)",
+      "4 slices bacon, diced",
+      "1 onion, diced",
+      "2 potatoes, diced",
+      "3 cups chicken broth",
+      "1 cup heavy cream",
+      "2 tablespoons butter",
+      "2 tablespoons flour",
+      "Fresh thyme",
+      "Salt and pepper"
+    ],
+    "steps": [
+      "Cook bacon until crispy, set aside, keep drippings",
+      "Add butter and onion, cook until softened",
+      "Sprinkle flour, stir 1 minute",
+      "Add broth and potatoes, simmer 15 minutes",
+      "Add corn kernels, cook 5 minutes",
+      "Stir in cream",
+      "Season with thyme, salt, and pepper",
+      "Garnish with crumbled bacon"
+    ],
+    "nutrition": {
+      "calories": 340,
+      "protein": 10,
+      "fat": 20,
+      "carbs": 34,
+      "fiber": 3,
+      "servingSize": "6 servings"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=XjBBqQqT5DA",
+    "imageURL": "https://img.youtube.com/vi/XjBBqQqT5DA/hqdefault.jpg"
+  },
+  {
+    "title": "Thai Coconut Soup",
+    "category": "Soup",
+    "ingredients": [
+      "2 cans (14 oz) coconut milk",
+      "2 cups chicken broth",
+      "1 lb chicken breast, sliced thin",
+      "8 oz mushrooms, sliced",
+      "2 tablespoons Thai red curry paste",
+      "3 tablespoons fish sauce",
+      "2 tablespoons lime juice",
+      "1 tablespoon brown sugar",
+      "Fresh cilantro and Thai basil"
+    ],
+    "steps": [
+      "Bring coconut milk and broth to a simmer",
+      "Stir in curry paste until dissolved",
+      "Add sliced chicken and mushrooms",
+      "Simmer 10 minutes until chicken is cooked",
+      "Add fish sauce, lime juice, and brown sugar",
+      "Taste and adjust seasoning",
+      "Garnish with cilantro and Thai basil"
+    ],
+    "nutrition": {
+      "calories": 380,
+      "protein": 24,
+      "fat": 28,
+      "carbs": 10,
+      "fiber": 1,
+      "servingSize": "4 servings"
+    },
+    "imageURL": "https://www.themealdb.com/images/media/meals/l50vz41763422681.jpg",
+    "youtubeURL": "https://www.youtube.com/watch?v=fvLcZg9gNnE"
+  },
+  {
+    "title": "Italian Wedding Soup",
+    "category": "Soup",
+    "ingredients": [
+      "1 lb ground pork and beef mix",
+      "1/3 cup breadcrumbs",
+      "1 egg",
+      "2 tablespoons Parmesan",
+      "8 cups chicken broth",
+      "1 cup acini di pepe pasta",
+      "4 cups escarole or spinach",
+      "1 onion, diced",
+      "2 cloves garlic",
+      "Salt and pepper"
+    ],
+    "steps": [
+      "Mix meat, breadcrumbs, egg, Parmesan, salt, and pepper",
+      "Roll into small meatballs (about 1/2 inch)",
+      "Sauté onion and garlic in olive oil",
+      "Add broth, bring to a boil",
+      "Add meatballs and pasta",
+      "Simmer 10 minutes until pasta is cooked and meatballs are done",
+      "Stir in escarole until wilted",
+      "Serve with extra Parmesan"
+    ],
+    "nutrition": {
+      "calories": 300,
+      "protein": 20,
+      "fat": 12,
+      "carbs": 28,
+      "fiber": 2,
+      "servingSize": "6 servings"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=ms2idED2WDE",
+    "imageURL": "https://img.youtube.com/vi/ms2idED2WDE/hqdefault.jpg"
+  },
+  {
+    "title": "Black Bean Soup",
+    "category": "Soup",
+    "ingredients": [
+      "3 cans (15 oz) black beans, drained",
+      "1 onion, diced",
+      "1 red bell pepper, diced",
+      "3 cloves garlic",
+      "4 cups vegetable broth",
+      "1 tablespoon cumin",
+      "1 teaspoon smoked paprika",
+      "2 tablespoons olive oil",
+      "Sour cream, cilantro, and lime for topping"
+    ],
+    "steps": [
+      "Heat olive oil, sauté onion and bell pepper 5 minutes",
+      "Add garlic, cumin, and paprika, cook 1 minute",
+      "Add beans and broth, bring to a simmer",
+      "Cook 20 minutes",
+      "Blend half the soup for a creamy-chunky texture",
+      "Season with salt and pepper",
+      "Serve topped with sour cream, cilantro, and a lime squeeze"
+    ],
+    "nutrition": {
+      "calories": 260,
+      "protein": 14,
+      "fat": 6,
+      "carbs": 38,
+      "fiber": 12,
+      "servingSize": "6 servings"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=6rClaR8_OT4",
+    "imageURL": "https://img.youtube.com/vi/6rClaR8_OT4/hqdefault.jpg"
+  },
+  {
+    "title": "Clam Chowder",
+    "category": "Soup",
+    "ingredients": [
+      "3 cans (6.5 oz) chopped clams with juice",
+      "4 slices bacon, diced",
+      "3 potatoes, diced",
+      "1 onion, diced",
+      "2 celery stalks, diced",
+      "2 cups heavy cream",
+      "2 tablespoons butter",
+      "3 tablespoons flour",
+      "1 bay leaf",
+      "Salt and pepper",
+      "Fresh parsley"
+    ],
+    "steps": [
+      "Cook bacon until crispy, remove and set aside",
+      "In the bacon fat, sauté onion and celery 5 minutes",
+      "Add butter, sprinkle in flour, stir 2 minutes",
+      "Add clam juice, potatoes, and bay leaf",
+      "Simmer 15 minutes until potatoes are tender",
+      "Add clams and cream, heat through without boiling",
+      "Season with salt and pepper, remove bay leaf",
+      "Garnish with bacon and parsley"
+    ],
+    "nutrition": {
+      "calories": 380,
+      "protein": 16,
+      "fat": 26,
+      "carbs": 22,
+      "fiber": 2,
+      "servingSize": "6 servings"
+    },
+    "imageURL": "https://www.themealdb.com/images/media/meals/rvtvuw1511190488.jpg",
+    "youtubeURL": "https://www.youtube.com/watch?v=fEN_fm6kX6k"
+  },
+  {
+    "title": "Vegetable Soup",
+    "category": "Soup",
+    "ingredients": [
+      "2 tablespoons olive oil",
+      "1 onion, diced",
+      "3 carrots, diced",
+      "2 potatoes, cubed",
+      "2 celery stalks, diced",
+      "1 zucchini, diced",
+      "1 can diced tomatoes",
+      "6 cups vegetable broth",
+      "1 cup green beans, trimmed and cut",
+      "1 teaspoon dried oregano",
+      "Salt and pepper"
+    ],
+    "steps": [
+      "Heat olive oil, sauté onion 3 minutes",
+      "Add carrots, potatoes, celery, and zucchini, cook 5 minutes",
+      "Add tomatoes, broth, green beans, and oregano",
+      "Bring to a boil, then simmer 20 minutes until vegetables are tender",
+      "Season with salt and pepper",
+      "Serve with crusty bread"
+    ],
+    "nutrition": {
+      "calories": 180,
+      "protein": 4,
+      "fat": 6,
+      "carbs": 28,
+      "fiber": 6,
+      "servingSize": "6 servings"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=SE-DptWxDKw",
+    "imageURL": "https://img.youtube.com/vi/SE-DptWxDKw/hqdefault.jpg"
+  },
+  {
+    "title": "Miso Soup",
+    "category": "Soup",
+    "ingredients": [
+      "4 cups dashi or vegetable broth",
+      "3 tablespoons white miso paste",
+      "7 oz firm tofu, cubed",
+      "1 cup wakame seaweed, rehydrated",
+      "2 green onions, sliced",
+      "1 teaspoon soy sauce"
+    ],
+    "steps": [
+      "Bring dashi to a gentle simmer",
+      "Ladle a small amount of hot dashi into a bowl with miso paste",
+      "Whisk until miso is dissolved, then pour back into the pot",
+      "Add tofu cubes and wakame",
+      "Heat gently — do not boil or miso will turn bitter",
+      "Add soy sauce to taste",
+      "Garnish with sliced green onions"
+    ],
+    "nutrition": {
+      "calories": 80,
+      "protein": 6,
+      "fat": 3,
+      "carbs": 8,
+      "fiber": 1,
+      "servingSize": "4 servings"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=mdP-JfdgxMc",
+    "imageURL": "https://img.youtube.com/vi/mdP-JfdgxMc/hqdefault.jpg"
+  },
+  {
+    "title": "Pozole Rojo",
+    "category": "Soup",
+    "ingredients": [
+      "2 lbs pork shoulder, cubed",
+      "2 cans (15 oz) hominy, drained",
+      "4 dried guajillo chilies",
+      "2 dried ancho chilies",
+      "1 onion, quartered",
+      "4 cloves garlic",
+      "6 cups chicken broth",
+      "1 teaspoon oregano",
+      "Radishes, cabbage, lime, and tostadas for serving"
+    ],
+    "steps": [
+      "Toast dried chilies in a dry skillet until fragrant",
+      "Soak chilies in hot water 20 minutes, then blend with garlic and some soaking liquid",
+      "Brown pork in a large pot",
+      "Add broth and chili puree, bring to a boil",
+      "Reduce heat and simmer 1.5 hours until pork is tender",
+      "Add hominy and oregano, simmer 15 more minutes",
+      "Season with salt",
+      "Serve with shredded cabbage, sliced radishes, lime, and tostadas"
+    ],
+    "nutrition": {
+      "calories": 380,
+      "protein": 28,
+      "fat": 14,
+      "carbs": 34,
+      "fiber": 6,
+      "servingSize": "6 servings"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=q-SU9f_XDso",
+    "imageURL": "https://img.youtube.com/vi/q-SU9f_XDso/hqdefault.jpg"
+  },
+  {
+    "title": "Egg Drop Wonton Soup",
+    "category": "Soup",
+    "ingredients": [
+      "6 cups chicken broth",
+      "12 frozen wontons",
+      "2 eggs, beaten",
+      "2 cups baby bok choy, halved",
+      "1 tablespoon soy sauce",
+      "1 teaspoon sesame oil",
+      "2 green onions, sliced",
+      "White pepper"
+    ],
+    "steps": [
+      "Bring broth to a boil",
+      "Add frozen wontons and cook 4-5 minutes",
+      "Add bok choy, cook 2 minutes until tender",
+      "Reduce to a gentle simmer",
+      "Slowly drizzle beaten eggs while stirring",
+      "Add soy sauce, sesame oil, and white pepper",
+      "Garnish with green onions"
+    ],
+    "nutrition": {
+      "calories": 220,
+      "protein": 14,
+      "fat": 8,
+      "carbs": 22,
+      "fiber": 1,
+      "servingSize": "4 servings"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=q-af9qTDO_Q",
+    "imageURL": "https://img.youtube.com/vi/q-af9qTDO_Q/hqdefault.jpg"
+  },
+  {
+    "title": "Roasted Red Pepper Soup",
+    "category": "Soup",
+    "ingredients": [
+      "6 red bell peppers",
+      "1 onion, diced",
+      "3 cloves garlic",
+      "2 cups vegetable broth",
+      "1/2 cup heavy cream",
+      "2 tablespoons olive oil",
+      "1 teaspoon smoked paprika",
+      "Salt and pepper",
+      "Fresh basil"
+    ],
+    "steps": [
+      "Roast peppers under the broiler, turning, until charred all over",
+      "Place in a bowl, cover with plastic, let steam 10 minutes",
+      "Peel, seed, and chop peppers",
+      "Sauté onion and garlic in olive oil",
+      "Add roasted peppers, broth, and paprika",
+      "Simmer 15 minutes",
+      "Blend until smooth, stir in cream",
+      "Season with salt and pepper, garnish with basil"
+    ],
+    "nutrition": {
+      "calories": 200,
+      "protein": 3,
+      "fat": 14,
+      "carbs": 18,
+      "fiber": 4,
+      "servingSize": "4 servings"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=Quf76fcO37I",
+    "imageURL": "https://img.youtube.com/vi/Quf76fcO37I/hqdefault.jpg"
+  },
+  {
+    "title": "Mediterranean Salad",
+    "category": "Salad",
+    "ingredients": [
+      "1 head romaine, chopped",
+      "1 cucumber, diced",
+      "1 cup cherry tomatoes, halved",
+      "1/2 red onion, sliced",
+      "1/2 cup Kalamata olives",
+      "1/2 cup feta, crumbled",
+      "3 tablespoons olive oil",
+      "2 tablespoons red wine vinegar",
+      "1 teaspoon oregano",
+      "Salt and pepper"
+    ],
+    "steps": [
+      "Combine lettuce, cucumber, tomatoes, onion, and olives",
+      "Whisk olive oil, vinegar, and oregano for dressing",
+      "Season with salt and pepper",
+      "Toss salad with dressing",
+      "Top with crumbled feta"
+    ],
+    "nutrition": {
+      "calories": 220,
+      "protein": 6,
+      "fat": 18,
+      "carbs": 10,
+      "fiber": 3,
+      "servingSize": "4 servings"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=nfQKQSmvKV4",
+    "imageURL": "https://img.youtube.com/vi/nfQKQSmvKV4/hqdefault.jpg"
+  },
+  {
+    "title": "Asian Sesame Chicken Salad",
+    "category": "Salad",
+    "ingredients": [
+      "2 cups shredded chicken",
+      "4 cups mixed greens",
+      "1 cup shredded cabbage",
+      "1 carrot, julienned",
+      "1/2 cup edamame",
+      "Crispy wonton strips",
+      "2 tablespoons sesame seeds",
+      "3 tablespoons soy sauce",
+      "2 tablespoons rice vinegar",
+      "1 tablespoon sesame oil",
+      "1 tablespoon honey"
+    ],
+    "steps": [
+      "Combine greens, cabbage, carrot, and edamame",
+      "Whisk soy sauce, rice vinegar, sesame oil, and honey",
+      "Add chicken to salad",
+      "Toss with dressing",
+      "Top with wonton strips and sesame seeds"
+    ],
+    "nutrition": {
+      "calories": 340,
+      "protein": 28,
+      "fat": 14,
+      "carbs": 24,
+      "fiber": 4,
+      "servingSize": "2 servings"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=cpUjAgoMFHE",
+    "imageURL": "https://img.youtube.com/vi/cpUjAgoMFHE/hqdefault.jpg"
+  },
+  {
+    "title": "Kale Caesar Salad",
+    "category": "Salad",
+    "ingredients": [
+      "1 bunch lacinato kale, destemmed and chopped",
+      "1/3 cup Caesar dressing",
+      "1/4 cup Parmesan, shaved",
+      "1 cup croutons",
+      "1 tablespoon lemon juice",
+      "1 tablespoon olive oil",
+      "Salt and pepper"
+    ],
+    "steps": [
+      "Massage kale with olive oil, lemon juice, and a pinch of salt for 2 minutes",
+      "Toss massaged kale with Caesar dressing",
+      "Add croutons and toss again",
+      "Top with shaved Parmesan",
+      "Grind fresh pepper over the top"
+    ],
+    "nutrition": {
+      "calories": 240,
+      "protein": 8,
+      "fat": 16,
+      "carbs": 18,
+      "fiber": 2,
+      "servingSize": "2 servings"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=kWAPTXfdo8A",
+    "imageURL": "https://img.youtube.com/vi/kWAPTXfdo8A/hqdefault.jpg"
+  },
+  {
+    "title": "Waldorf Salad",
+    "category": "Salad",
+    "ingredients": [
+      "2 large apples, diced",
+      "1 cup seedless grapes, halved",
+      "1 cup celery, diced",
+      "1/2 cup walnuts, chopped",
+      "1/3 cup mayonnaise",
+      "1 tablespoon lemon juice",
+      "1 tablespoon honey",
+      "Lettuce leaves for serving"
+    ],
+    "steps": [
+      "Toss diced apples with lemon juice to prevent browning",
+      "Combine apples, grapes, celery, and walnuts",
+      "Mix mayonnaise with honey",
+      "Fold dressing into the fruit mixture",
+      "Serve on lettuce leaves"
+    ],
+    "nutrition": {
+      "calories": 280,
+      "protein": 4,
+      "fat": 20,
+      "carbs": 24,
+      "fiber": 3,
+      "sugar": 18,
+      "servingSize": "4 servings"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=Nm5T892lHZs",
+    "imageURL": "https://img.youtube.com/vi/Nm5T892lHZs/hqdefault.jpg"
+  },
+  {
+    "title": "Southwest Chicken Salad",
+    "category": "Salad",
+    "ingredients": [
+      "2 cups grilled chicken, diced",
+      "4 cups romaine, chopped",
+      "1 cup black beans, drained",
+      "1 cup corn kernels",
+      "1 avocado, diced",
+      "1/2 cup cherry tomatoes, halved",
+      "1/4 cup cilantro lime dressing",
+      "Tortilla strips"
+    ],
+    "steps": [
+      "Arrange romaine in bowls",
+      "Top with chicken, black beans, corn, avocado, and tomatoes",
+      "Drizzle with cilantro lime dressing",
+      "Add tortilla strips for crunch",
+      "Toss gently before eating"
+    ],
+    "nutrition": {
+      "calories": 420,
+      "protein": 32,
+      "fat": 18,
+      "carbs": 36,
+      "fiber": 10,
+      "servingSize": "2 servings"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=xz1S5UreyUQ",
+    "imageURL": "https://img.youtube.com/vi/xz1S5UreyUQ/hqdefault.jpg"
+  },
+  {
+    "title": "Greek Orzo Salad",
+    "category": "Salad",
+    "ingredients": [
+      "1 cup orzo pasta",
+      "1 cup cherry tomatoes, halved",
+      "1/2 cucumber, diced",
+      "1/4 cup red onion, diced",
+      "1/2 cup Kalamata olives",
+      "1/2 cup feta, crumbled",
+      "3 tablespoons olive oil",
+      "2 tablespoons lemon juice",
+      "1 teaspoon dried oregano",
+      "Salt and pepper"
+    ],
+    "steps": [
+      "Cook orzo according to package, drain and cool",
+      "Combine with tomatoes, cucumber, onion, and olives",
+      "Whisk olive oil, lemon juice, and oregano",
+      "Toss salad with dressing",
+      "Fold in feta cheese",
+      "Serve at room temperature or chilled"
+    ],
+    "nutrition": {
+      "calories": 320,
+      "protein": 10,
+      "fat": 16,
+      "carbs": 36,
+      "fiber": 3,
+      "servingSize": "4 servings"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=AU57VQdPTss",
+    "imageURL": "https://img.youtube.com/vi/AU57VQdPTss/hqdefault.jpg"
+  },
+  {
+    "title": "Thai Mango Salad",
+    "category": "Salad",
+    "ingredients": [
+      "2 firm mangoes, julienned",
+      "1 red bell pepper, thinly sliced",
+      "1/2 cup shredded carrots",
+      "1/4 cup fresh mint leaves",
+      "1/4 cup cilantro",
+      "1/4 cup roasted peanuts",
+      "2 tablespoons fish sauce",
+      "2 tablespoons lime juice",
+      "1 tablespoon sugar",
+      "1 Thai chili, minced"
+    ],
+    "steps": [
+      "Combine mango, bell pepper, carrots, mint, and cilantro in a bowl",
+      "Whisk fish sauce, lime juice, sugar, and chili until sugar dissolves",
+      "Pour dressing over salad and toss",
+      "Top with crushed roasted peanuts",
+      "Serve immediately"
+    ],
+    "nutrition": {
+      "calories": 180,
+      "protein": 4,
+      "fat": 6,
+      "carbs": 30,
+      "fiber": 4,
+      "sugar": 22,
+      "servingSize": "4 servings"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=zXuB1nv2uGs",
+    "imageURL": "https://img.youtube.com/vi/zXuB1nv2uGs/hqdefault.jpg"
+  },
+  {
+    "title": "Spinach Strawberry Salad",
+    "category": "Salad",
+    "ingredients": [
+      "6 cups baby spinach",
+      "1.5 cups strawberries, sliced",
+      "1/2 cup candied pecans",
+      "1/4 cup goat cheese, crumbled",
+      "1/4 red onion, thinly sliced",
+      "3 tablespoons balsamic vinaigrette"
+    ],
+    "steps": [
+      "Place spinach in a large bowl",
+      "Add sliced strawberries and red onion",
+      "Toss with balsamic vinaigrette",
+      "Top with candied pecans and crumbled goat cheese",
+      "Serve immediately"
+    ],
+    "nutrition": {
+      "calories": 220,
+      "protein": 6,
+      "fat": 14,
+      "carbs": 20,
+      "fiber": 4,
+      "sugar": 12,
+      "servingSize": "4 servings"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=zSgXnf6IHPc",
+    "imageURL": "https://img.youtube.com/vi/zSgXnf6IHPc/hqdefault.jpg"
+  },
+  {
+    "title": "Taco Salad",
+    "category": "Salad",
+    "ingredients": [
+      "1 lb ground beef, seasoned with taco seasoning",
+      "6 cups romaine, chopped",
+      "1 cup cheddar, shredded",
+      "1/2 cup black beans",
+      "1/2 cup corn",
+      "1 cup tortilla chips, crushed",
+      "1/2 cup salsa",
+      "1/4 cup sour cream",
+      "1 avocado, diced"
+    ],
+    "steps": [
+      "Cook and season ground beef",
+      "Arrange romaine in a large bowl",
+      "Top with beef, beans, corn, cheese, and avocado",
+      "Add crushed tortilla chips",
+      "Drizzle with salsa and sour cream",
+      "Toss and serve"
+    ],
+    "nutrition": {
+      "calories": 480,
+      "protein": 28,
+      "fat": 28,
+      "carbs": 30,
+      "fiber": 8,
+      "servingSize": "4 servings"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=0ewCyLMnasE",
+    "imageURL": "https://img.youtube.com/vi/0ewCyLMnasE/hqdefault.jpg"
+  },
+  {
+    "title": "Pear and Gorgonzola Salad",
+    "category": "Salad",
+    "ingredients": [
+      "6 cups mixed greens",
+      "2 ripe pears, sliced",
+      "1/3 cup Gorgonzola, crumbled",
+      "1/4 cup candied walnuts",
+      "3 tablespoons olive oil",
+      "1 tablespoon white wine vinegar",
+      "1 teaspoon honey",
+      "Salt and pepper"
+    ],
+    "steps": [
+      "Arrange greens on plates or in a bowl",
+      "Fan pear slices on top",
+      "Sprinkle with Gorgonzola and candied walnuts",
+      "Whisk olive oil, vinegar, and honey",
+      "Drizzle dressing over salad",
+      "Season with salt and pepper"
+    ],
+    "nutrition": {
+      "calories": 260,
+      "protein": 6,
+      "fat": 18,
+      "carbs": 22,
+      "fiber": 4,
+      "sugar": 14,
+      "servingSize": "4 servings"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=dMOpPa8A0x0",
+    "imageURL": "https://img.youtube.com/vi/dMOpPa8A0x0/hqdefault.jpg"
+  },
+  {
+    "title": "Fattoush Salad",
+    "category": "Salad",
+    "ingredients": [
+      "1 head romaine, chopped",
+      "2 pita breads, torn and toasted",
+      "2 tomatoes, diced",
+      "1 cucumber, diced",
+      "1/2 cup radishes, sliced",
+      "1/4 cup fresh mint",
+      "1/4 cup parsley",
+      "3 tablespoons olive oil",
+      "2 tablespoons lemon juice",
+      "1 teaspoon sumac"
+    ],
+    "steps": [
+      "Toast pita pieces in the oven at 400°F until crispy",
+      "Combine romaine, tomatoes, cucumber, radishes, mint, and parsley",
+      "Whisk olive oil, lemon juice, and sumac",
+      "Toss salad with dressing",
+      "Add toasted pita just before serving for crunch"
+    ],
+    "nutrition": {
+      "calories": 200,
+      "protein": 4,
+      "fat": 12,
+      "carbs": 22,
+      "fiber": 3,
+      "servingSize": "4 servings"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=iE8ZyoBxFsE",
+    "imageURL": "https://img.youtube.com/vi/iE8ZyoBxFsE/hqdefault.jpg"
+  },
+  {
+    "title": "Nicoise Salad",
+    "category": "Salad",
+    "ingredients": [
+      "2 cans tuna, drained",
+      "4 eggs, hard-boiled and quartered",
+      "1 lb green beans, blanched",
+      "1 cup cherry tomatoes",
+      "1/2 cup Nicoise olives",
+      "4 small potatoes, boiled and quartered",
+      "4 tablespoons olive oil",
+      "2 tablespoons red wine vinegar",
+      "1 teaspoon Dijon mustard"
+    ],
+    "steps": [
+      "Arrange green beans, potatoes, tomatoes, and olives on a platter",
+      "Add tuna chunks and egg quarters",
+      "Whisk olive oil, vinegar, and mustard for dressing",
+      "Drizzle dressing over the salad",
+      "Serve at room temperature as a composed salad"
+    ],
+    "nutrition": {
+      "calories": 380,
+      "protein": 28,
+      "fat": 20,
+      "carbs": 22,
+      "fiber": 4,
+      "servingSize": "4 servings"
+    },
+    "imageURL": "https://www.themealdb.com/images/media/meals/yypwwq1511304979.jpg",
+    "youtubeURL": "https://www.youtube.com/watch?v=3_UAxkx0u6U"
+  },
+  {
+    "title": "Watermelon Feta Salad",
+    "category": "Salad",
+    "ingredients": [
+      "4 cups watermelon, cubed",
+      "1/2 cup feta, crumbled",
+      "1/4 cup fresh mint leaves",
+      "1/4 red onion, thinly sliced",
+      "2 tablespoons olive oil",
+      "1 tablespoon lime juice",
+      "Salt and pepper"
+    ],
+    "steps": [
+      "Arrange watermelon cubes on a platter",
+      "Scatter feta, mint, and red onion over the top",
+      "Drizzle with olive oil and lime juice",
+      "Season lightly with salt and pepper",
+      "Serve immediately while cold"
+    ],
+    "nutrition": {
+      "calories": 160,
+      "protein": 4,
+      "fat": 10,
+      "carbs": 16,
+      "fiber": 1,
+      "sugar": 12,
+      "servingSize": "4 servings"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=nMi1X3kiSR0",
+    "imageURL": "https://img.youtube.com/vi/nMi1X3kiSR0/hqdefault.jpg"
+  },
+  {
+    "title": "Chopped Italian Salad",
+    "category": "Salad",
+    "ingredients": [
+      "1 head iceberg lettuce, chopped",
+      "1/2 cup salami, diced",
+      "1/2 cup pepperoncini, sliced",
+      "1/2 cup cherry tomatoes, halved",
+      "1/4 cup red onion, diced",
+      "1/4 cup Parmesan, shaved",
+      "1/2 cup chickpeas",
+      "Italian vinaigrette dressing"
+    ],
+    "steps": [
+      "Chop all ingredients to similar sizes",
+      "Combine lettuce, salami, pepperoncini, tomatoes, onion, and chickpeas",
+      "Toss with Italian vinaigrette",
+      "Top with shaved Parmesan",
+      "Serve immediately"
+    ],
+    "nutrition": {
+      "calories": 280,
+      "protein": 12,
+      "fat": 18,
+      "carbs": 18,
+      "fiber": 4,
+      "servingSize": "4 servings"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=nvnIwigQnpo",
+    "imageURL": "https://img.youtube.com/vi/nvnIwigQnpo/hqdefault.jpg"
+  },
+  {
+    "title": "Grilled Peach Salad",
+    "category": "Salad",
+    "ingredients": [
+      "4 ripe peaches, halved and pitted",
+      "6 cups arugula",
+      "4 oz burrata cheese",
+      "1/4 cup pistachios, chopped",
+      "2 tablespoons olive oil",
+      "1 tablespoon honey",
+      "1 tablespoon balsamic vinegar",
+      "Salt and pepper"
+    ],
+    "steps": [
+      "Brush peach halves with olive oil",
+      "Grill cut-side down 3-4 minutes until char marks appear",
+      "Arrange arugula on plates",
+      "Place grilled peaches on top",
+      "Tear burrata over the salad",
+      "Sprinkle with pistachios",
+      "Drizzle with honey and balsamic vinegar"
+    ],
+    "nutrition": {
+      "calories": 260,
+      "protein": 10,
+      "fat": 16,
+      "carbs": 22,
+      "fiber": 3,
+      "sugar": 18,
+      "servingSize": "4 servings"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=mhLEL72R8zY",
+    "imageURL": "https://img.youtube.com/vi/mhLEL72R8zY/hqdefault.jpg"
+  },
+  {
+    "title": "Arugula and Prosciutto Salad",
+    "category": "Salad",
+    "ingredients": [
+      "6 cups baby arugula",
+      "4 oz prosciutto, torn",
+      "1/3 cup Parmesan, shaved",
+      "1/4 cup pine nuts, toasted",
+      "1 cup cherry tomatoes, halved",
+      "3 tablespoons olive oil",
+      "1 tablespoon lemon juice",
+      "Salt and pepper"
+    ],
+    "steps": [
+      "Arrange arugula on a platter",
+      "Drape prosciutto pieces over the arugula",
+      "Scatter cherry tomatoes and pine nuts",
+      "Shave Parmesan over the top",
+      "Drizzle with olive oil and lemon juice",
+      "Season with salt and pepper"
+    ],
+    "nutrition": {
+      "calories": 240,
+      "protein": 14,
+      "fat": 18,
+      "carbs": 6,
+      "fiber": 2,
+      "servingSize": "4 servings"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=TAty1jOA7Ro",
+    "imageURL": "https://img.youtube.com/vi/TAty1jOA7Ro/hqdefault.jpg"
+  },
+  {
+    "title": "Couscous Salad",
+    "category": "Salad",
+    "ingredients": [
+      "1.5 cups couscous",
+      "1 cup cherry tomatoes, quartered",
+      "1 cucumber, diced",
+      "1/4 cup fresh parsley, chopped",
+      "1/4 cup fresh mint, chopped",
+      "3 tablespoons olive oil",
+      "2 tablespoons lemon juice",
+      "1/2 teaspoon cumin",
+      "Salt and pepper",
+      "1/4 cup raisins"
+    ],
+    "steps": [
+      "Cook couscous according to package, fluff with a fork and cool",
+      "Add tomatoes, cucumber, parsley, mint, and raisins",
+      "Whisk olive oil, lemon juice, and cumin",
+      "Toss salad with dressing",
+      "Season with salt and pepper",
+      "Serve at room temperature"
+    ],
+    "nutrition": {
+      "calories": 280,
+      "protein": 6,
+      "fat": 10,
+      "carbs": 42,
+      "fiber": 3,
+      "servingSize": "4 servings"
+    },
+    "imageURL": "https://www.themealdb.com/images/media/meals/02s6gc1763799560.jpg",
+    "youtubeURL": "https://www.youtube.com/shorts/8ws2Ohy__CQ"
+  },
+  {
+    "title": "Beet and Goat Cheese Salad",
+    "category": "Salad",
+    "ingredients": [
+      "4 medium beets, roasted and sliced",
+      "6 cups mixed greens",
+      "4 oz goat cheese, crumbled",
+      "1/3 cup candied pecans",
+      "3 tablespoons olive oil",
+      "1 tablespoon balsamic vinegar",
+      "1 teaspoon honey",
+      "Salt and pepper"
+    ],
+    "steps": [
+      "Wrap beets in foil and roast at 400°F for 45-60 minutes until tender",
+      "Let cool, peel, and slice",
+      "Arrange greens on plates",
+      "Top with beet slices and crumbled goat cheese",
+      "Sprinkle with candied pecans",
+      "Whisk olive oil, balsamic, and honey for dressing",
+      "Drizzle over salad"
+    ],
+    "nutrition": {
+      "calories": 280,
+      "protein": 8,
+      "fat": 20,
+      "carbs": 20,
+      "fiber": 4,
+      "servingSize": "4 servings"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=VOOUXDFw_KA",
+    "imageURL": "https://img.youtube.com/vi/VOOUXDFw_KA/hqdefault.jpg"
+  },
+  {
+    "title": "Chinese Chicken Salad",
+    "category": "Salad",
+    "ingredients": [
+      "3 cups shredded Napa cabbage",
+      "2 cups shredded cooked chicken",
+      "1 cup mandarin oranges, drained",
+      "1/2 cup crispy chow mein noodles",
+      "1/4 cup sliced almonds",
+      "2 green onions, sliced",
+      "3 tablespoons rice vinegar",
+      "2 tablespoons soy sauce",
+      "1 tablespoon sesame oil",
+      "1 tablespoon honey"
+    ],
+    "steps": [
+      "Combine cabbage, chicken, mandarin oranges, and green onions",
+      "Whisk rice vinegar, soy sauce, sesame oil, and honey",
+      "Toss salad with dressing",
+      "Top with crispy chow mein noodles and sliced almonds",
+      "Serve immediately while noodles are still crunchy"
+    ],
+    "nutrition": {
+      "calories": 320,
+      "protein": 24,
+      "fat": 14,
+      "carbs": 26,
+      "fiber": 3,
+      "servingSize": "4 servings"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=RyKCaNrt1f4",
+    "imageURL": "https://img.youtube.com/vi/RyKCaNrt1f4/hqdefault.jpg"
+  },
+  {
+    "title": "Gyoza Dumplings",
+    "category": "Appetizer",
+    "ingredients": [
+      "1 lb ground pork",
+      "2 cups Napa cabbage, finely chopped",
+      "2 green onions, minced",
+      "1 tablespoon soy sauce",
+      "1 teaspoon sesame oil",
+      "1 teaspoon ginger, grated",
+      "30 gyoza wrappers",
+      "2 tablespoons vegetable oil",
+      "1/4 cup water"
+    ],
+    "steps": [
+      "Mix pork, cabbage, green onions, soy sauce, sesame oil, and ginger",
+      "Place a teaspoon of filling in each wrapper",
+      "Moisten edges with water, fold and pleat to seal",
+      "Heat vegetable oil in a skillet over medium-high heat",
+      "Place dumplings flat-side down, cook 2 minutes until golden",
+      "Add water and cover, steam 5 minutes until cooked through",
+      "Serve with soy dipping sauce"
+    ],
+    "nutrition": {
+      "calories": 200,
+      "protein": 12,
+      "fat": 10,
+      "carbs": 16,
+      "fiber": 1,
+      "servingSize": "6 servings"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=VoTqzjg83u8",
+    "imageURL": "https://img.youtube.com/vi/VoTqzjg83u8/hqdefault.jpg"
+  },
+  {
+    "title": "Tres Leches Cake",
+    "category": "Dessert",
+    "ingredients": [
+      "1 cup all-purpose flour",
+      "5 eggs",
+      "3/4 cup sugar",
+      "1/3 cup whole milk",
+      "1 can (14 oz) sweetened condensed milk",
+      "1 can (12 oz) evaporated milk",
+      "1 cup heavy cream",
+      "1 teaspoon vanilla",
+      "Whipped cream and cinnamon"
+    ],
+    "steps": [
+      "Preheat oven to 350°F, grease a 9x13 pan",
+      "Beat eggs and sugar until fluffy, fold in flour and milk",
+      "Pour into pan and bake 25-30 minutes",
+      "Mix condensed milk, evaporated milk, cream, and vanilla",
+      "Poke holes all over the warm cake with a fork",
+      "Pour milk mixture over cake, refrigerate at least 4 hours",
+      "Top with whipped cream and a dusting of cinnamon"
+    ],
+    "nutrition": {
+      "calories": 320,
+      "protein": 8,
+      "fat": 14,
+      "carbs": 42,
+      "sugar": 32,
+      "servingSize": "12 servings"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=NJ8lkiaPc8A",
+    "imageURL": "https://img.youtube.com/vi/NJ8lkiaPc8A/hqdefault.jpg"
+  },
+  {
+    "title": "Chicken Fried Rice",
+    "category": "Dinner",
+    "ingredients": [
+      "3 cups cooked rice, chilled",
+      "2 chicken breasts, diced",
+      "3 eggs, scrambled",
+      "1 cup frozen peas and carrots",
+      "3 tablespoons soy sauce",
+      "1 tablespoon sesame oil",
+      "3 green onions, sliced",
+      "2 tablespoons vegetable oil",
+      "2 cloves garlic, minced"
+    ],
+    "steps": [
+      "Heat vegetable oil in a wok over high heat",
+      "Cook diced chicken until done, set aside",
+      "Scramble eggs in the wok, break into pieces, set aside",
+      "Add more oil, stir-fry garlic 30 seconds",
+      "Add cold rice and peas/carrots, stir-fry 3-4 minutes",
+      "Return chicken and eggs to wok",
+      "Add soy sauce and sesame oil, toss to combine",
+      "Garnish with green onions"
+    ],
+    "nutrition": {
+      "calories": 420,
+      "protein": 28,
+      "fat": 14,
+      "carbs": 44,
+      "fiber": 2,
+      "servingSize": "4 servings"
+    },
+    "imageURL": "https://www.themealdb.com/images/media/meals/wuyd2h1765655837.jpg",
+    "youtubeURL": "https://www.youtube.com/watch?v=mUr-7wjhHuU"
+  },
+  {
+    "title": "Chicken Club Sandwich",
+    "category": "Lunch",
+    "ingredients": [
+      "3 slices toasted bread per sandwich",
+      "Grilled chicken breast, sliced",
+      "4 slices bacon, cooked",
+      "Lettuce and tomato slices",
+      "2 tablespoons mayonnaise",
+      "1 slice Swiss cheese",
+      "1 slice cheddar cheese"
+    ],
+    "steps": [
+      "Toast all bread slices",
+      "Spread mayonnaise on each slice",
+      "Layer chicken, Swiss cheese, lettuce on first slice",
+      "Add second bread slice",
+      "Layer bacon, cheddar, tomato on second slice",
+      "Top with third bread slice",
+      "Cut diagonally into quarters, secure with toothpicks"
+    ],
+    "nutrition": {
+      "calories": 520,
+      "protein": 38,
+      "fat": 26,
+      "carbs": 34,
+      "fiber": 2,
+      "servingSize": "2 servings"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=-YSMor0J_2k",
+    "imageURL": "https://img.youtube.com/vi/-YSMor0J_2k/hqdefault.jpg"
+  },
+  {
+    "title": "Caesar Pasta Salad",
+    "category": "Salad",
+    "ingredients": [
+      "12 oz rotini pasta",
+      "2 cups romaine, chopped",
+      "1 cup cherry tomatoes, halved",
+      "1/2 cup Caesar dressing",
+      "1/3 cup Parmesan, shaved",
+      "1 cup croutons",
+      "1 cup grilled chicken, diced",
+      "Salt and pepper"
+    ],
+    "steps": [
+      "Cook pasta, drain and cool",
+      "Combine pasta with romaine, tomatoes, and chicken",
+      "Toss with Caesar dressing",
+      "Top with Parmesan shavings and croutons",
+      "Season with salt and pepper",
+      "Serve chilled or at room temperature"
+    ],
+    "nutrition": {
+      "calories": 380,
+      "protein": 22,
+      "fat": 16,
+      "carbs": 38,
+      "fiber": 2,
+      "servingSize": "4 servings"
+    },
+    "imageURL": "https://www.themealdb.com/images/media/meals/wvqpwt1468339226.jpg",
+    "youtubeURL": "https://www.youtube.com/watch?v=e52IL8zYmaE"
+  },
+  {
+    "title": "Fruit and Nut Butter Bites",
+    "category": "Snack",
+    "ingredients": [
+      "1 cup dried apricots",
+      "1/2 cup cashew butter",
+      "1/4 cup dark chocolate chips",
+      "2 tablespoons shredded coconut",
+      "1 tablespoon hemp seeds",
+      "Pinch of sea salt"
+    ],
+    "steps": [
+      "Slice dried apricots in half if large",
+      "Spread a small amount of cashew butter on each apricot",
+      "Top with a chocolate chip or two",
+      "Sprinkle with coconut, hemp seeds, and sea salt",
+      "Arrange on a plate and serve",
+      "Store extras in the fridge"
+    ],
+    "nutrition": {
+      "calories": 110,
+      "protein": 3,
+      "fat": 6,
+      "carbs": 14,
+      "fiber": 2,
+      "sugar": 10,
+      "servingSize": "6 servings"
+    },
+    "youtubeURL": "https://www.youtube.com/watch?v=y4vv4Rmh_s8",
+    "imageURL": "https://img.youtube.com/vi/y4vv4Rmh_s8/hqdefault.jpg"
+  },
+  {
+    "title": "Cream of Mushroom Soup",
+    "category": "Soup",
+    "ingredients": [
+      "1 lb mixed mushrooms, sliced",
+      "1 onion, diced",
+      "3 cloves garlic",
+      "3 tablespoons butter",
+      "3 tablespoons flour",
+      "3 cups chicken broth",
+      "1 cup heavy cream",
+      "1 tablespoon fresh thyme",
+      "Salt and pepper",
+      "Truffle oil (optional)"
+    ],
+    "steps": [
+      "Melt butter, sauté mushrooms until golden, about 8 minutes",
+      "Add onion and garlic, cook 3 minutes",
+      "Sprinkle flour, stir 2 minutes",
+      "Gradually whisk in broth",
+      "Simmer 15 minutes",
+      "Blend half for a creamy-chunky texture",
+      "Stir in cream and thyme",
+      "Season with salt and pepper, drizzle with truffle oil if desired"
+    ],
+    "nutrition": {
+      "calories": 280,
+      "protein": 6,
+      "fat": 22,
+      "carbs": 16,
+      "fiber": 2,
+      "servingSize": "4 servings"
+    },
+    "imageURL": "https://www.themealdb.com/images/media/meals/1ngcbf1628770793.jpg",
+    "youtubeURL": "https://www.youtube.com/watch?v=M1ok7mG9-Qc"
+  }
+]
