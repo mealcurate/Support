@@ -4,11 +4,11 @@
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
 <title>Meal Curate — Your pantry knows what's for dinner</title>
-<meta name="description" content="A private iOS meal planner with 524 recipes, pantry-aware suggestions, and no account required. Launching this month." />
+<meta name="description" content="A private iOS meal planner with 524 recipes, pantry-aware suggestions, and no account required. Now on the App Store." />
 
 <!-- Open Graph -->
 <meta property="og:title" content="Meal Curate" />
-<meta property="og:description" content="Your pantry knows what's for dinner. A private iOS meal planner. Launching this month." />
+<meta property="og:description" content="Your pantry knows what's for dinner. A private iOS meal planner. Now on the App Store." />
 <meta property="og:url" content="https://mealcurate.github.io/" />
 <meta property="og:type" content="website" />
 <meta name="twitter:card" content="summary_large_image" />
@@ -112,38 +112,23 @@
     line-height: 1.55;
   }
 
-  /* Email form */
-  form.capture {
-    display: flex; gap: 8px; max-width: 480px; margin: 0 auto;
-    flex-wrap: wrap; justify-content: center;
+  /* Hero artwork */
+  .hero-art {
+    max-width: 320px; width: 70%; height: auto;
+    margin: 0 auto 32px; display: block;
+    border-radius: 28px;
+    box-shadow: 0 20px 60px rgba(0, 0, 0, 0.35);
   }
-  form.capture input[type="email"] {
-    flex: 1 1 240px; min-width: 0;
-    padding: 14px 18px;
-    border: 1px solid rgba(244, 241, 234, 0.25);
-    background: rgba(255, 255, 255, 0.06);
-    color: var(--on-forest);
-    border-radius: 12px;
-    font: inherit;
-    font-size: 16px;
-    outline: none;
-    transition: border-color 0.15s, background 0.15s;
+  @media (max-width: 600px) { .hero-art { max-width: 260px; width: 75%; } }
+
+  /* App Store badge */
+  .app-store-cta {
+    display: flex; justify-content: center; align-items: center;
+    gap: 16px; flex-wrap: wrap;
   }
-  form.capture input[type="email"]::placeholder { color: rgba(244, 241, 234, 0.5); }
-  form.capture input[type="email"]:focus {
-    border-color: var(--amber); background: rgba(255, 255, 255, 0.10);
-  }
-  form.capture button {
-    padding: 14px 24px;
-    background: var(--paprika);
-    color: var(--on-forest);
-    border: none; border-radius: 12px;
-    font: inherit; font-weight: 600; font-size: 16px;
-    cursor: pointer;
-    transition: background 0.15s, transform 0.1s;
-  }
-  form.capture button:hover { background: var(--paprika-dark); }
-  form.capture button:active { transform: scale(0.98); }
+  .app-store-cta a { display: inline-block; transition: transform 0.15s, opacity 0.15s; }
+  .app-store-cta a:hover { transform: translateY(-2px); opacity: 0.92; text-decoration: none; }
+  .app-store-cta img { height: 56px; width: auto; display: block; }
   .hero .fineprint {
     margin-top: 16px; font-size: 13px; color: rgba(244, 241, 234, 0.55);
   }
@@ -303,24 +288,25 @@
       <li><a href="#privacy">Privacy</a></li>
       <li><a href="#pricing">Pricing</a></li>
       <li><a href="#faq">FAQ</a></li>
-      <li><a href="/Support/">Support</a></li>
+      <li><a href="support.html">Support</a></li>
     </ul>
   </div>
 </nav>
 
 <header class="hero">
   <div class="wrap">
-    <div class="eyebrow">Launching this month · iOS</div>
+    <div class="eyebrow">Now on the App Store · iOS</div>
     <h1>Your pantry knows<br/>what's <span class="accent">for dinner</span>.</h1>
     <p class="lede">A private meal planner with 524 hand-curated recipes, pantry-aware suggestions, and no account required. Built for home cooks who want to use what they already have.</p>
 
-    <!-- Replace `mealcurate` below with your Buttondown username after signup at buttondown.email -->
-    <form class="capture" action="https://buttondown.email/api/emails/embed-subscribe/mealcurate" method="post" target="popupwindow" onsubmit="window.open('https://buttondown.email/mealcurate', 'popupwindow')">
-      <input type="email" name="email" placeholder="your@email.com" required aria-label="Email address" />
-      <input type="hidden" name="tag" value="prelaunch" />
-      <button type="submit">Notify me at launch</button>
-    </form>
-    <p class="fineprint">No spam. One email when the app goes live.</p>
+    <img class="hero-art" src="hero-logo.jpg" alt="Meal Curate — meal planner and smart shopping list" />
+
+    <div class="app-store-cta">
+      <a href="https://apps.apple.com/app/apple-store/id6760915712?pt=128656963&ct=June2026f&mt=8" aria-label="Download Meal Curate on the App Store">
+        <img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83" alt="Download on the App Store" />
+      </a>
+    </div>
+    <p class="fineprint">Free to download. Pro features include a 30-day free trial.</p>
   </div>
 </header>
 
@@ -410,8 +396,8 @@
     </details>
 
     <details>
-      <summary>When is it launching?</summary>
-      <p>This month, on the iOS App Store. Drop your email at the top of this page and you'll get one note when it goes live.</p>
+      <summary>Where can I get it?</summary>
+      <p>Meal Curate is live on the iOS App Store. <a href="https://apps.apple.com/app/apple-store/id6760915712?pt=128656963&ct=June2026f&mt=8">Download it here</a>.</p>
     </details>
 
     <details>
@@ -428,10 +414,9 @@
       <span class="made">Made solo. iOS only.</span>
     </div>
     <div style="display: flex; gap: 24px; align-items: center; flex-wrap: wrap;">
-      <a href="/Support/">Support</a>
-      <a href="/Support/privacy.html">Privacy</a>
-      <a href="/Support/terms.html">Terms</a>
-      <a href="mailto:support@mealcurate.com">Contact</a>
+      <a href="support.html">Support</a>
+      <a href="privacy.html">Privacy</a>
+      <a href="mailto:mealcurate@gmail.com">Contact</a>
     </div>
   </div>
 </footer>
