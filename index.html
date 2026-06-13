@@ -1,0 +1,425 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<title>Meal Curate — Your pantry knows what's for dinner</title>
+<meta name="description" content="A private iOS meal planner with 524 recipes, pantry-aware suggestions, and no account required. Now on the App Store." />
+
+<!-- Open Graph -->
+<meta property="og:title" content="Meal Curate" />
+<meta property="og:description" content="Your pantry knows what's for dinner. A private iOS meal planner. Now on the App Store." />
+<meta property="og:url" content="https://mealcurate.github.io/" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary_large_image" />
+
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='100' rx='22' fill='%231F4030'/%3E%3Ctext x='50' y='70' font-family='Georgia,serif' font-size='62' font-weight='700' text-anchor='middle' fill='%23F5F2E8'%3EM%3C/text%3E%3C/svg%3E" />
+
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
+
+<style>
+  :root {
+    --forest: #1F4030;
+    --forest-deep: #152C21;
+    --paprika: #C4452C;
+    --paprika-dark: #9A3621;
+    --amber: #E5A85C;
+    --amber-deep: #B3732A;
+    --cream: #F5F2E8;
+    --parchment: #FBF7F0;
+    --on-forest: #F4F1EA;
+    --warm-gray: #5A554E;
+    --hairline: rgba(31, 64, 48, 0.12);
+  }
+
+  * { box-sizing: border-box; }
+  html { scroll-behavior: smooth; -webkit-text-size-adjust: 100%; }
+  body {
+    margin: 0;
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    color: var(--forest-deep);
+    background: var(--parchment);
+    line-height: 1.55;
+    font-size: 17px;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  .serif { font-family: 'Cormorant Garamond', Georgia, 'Times New Roman', serif; }
+
+  a { color: var(--paprika); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+
+  .wrap { max-width: 1080px; margin: 0 auto; padding: 0 24px; }
+
+  /* Nav */
+  nav.top {
+    position: sticky; top: 0; z-index: 10;
+    background: rgba(251, 247, 240, 0.92);
+    backdrop-filter: saturate(140%) blur(12px);
+    -webkit-backdrop-filter: saturate(140%) blur(12px);
+    border-bottom: 1px solid var(--hairline);
+  }
+  nav.top .row {
+    display: flex; align-items: center; justify-content: space-between;
+    height: 64px;
+  }
+  nav.top .brand {
+    font-family: 'Cormorant Garamond', Georgia, serif;
+    font-weight: 700; font-size: 24px; letter-spacing: 0.01em;
+    color: var(--forest);
+  }
+  nav.top .brand .accent { color: var(--amber-deep); }
+  nav.top ul {
+    list-style: none; display: flex; gap: 28px; margin: 0; padding: 0;
+    font-size: 14px; font-weight: 500;
+  }
+  nav.top ul a { color: var(--warm-gray); }
+  @media (max-width: 720px) { nav.top ul { display: none; } }
+
+  /* Hero */
+  .hero {
+    background: var(--forest);
+    color: var(--on-forest);
+    padding: 96px 0 80px;
+    text-align: center;
+    position: relative; overflow: hidden;
+  }
+  .hero::before {
+    content: ''; position: absolute; inset: 0;
+    background: radial-gradient(ellipse at top, rgba(229, 168, 92, 0.08), transparent 60%);
+    pointer-events: none;
+  }
+  .hero .eyebrow {
+    text-transform: uppercase; letter-spacing: 0.18em;
+    font-size: 12px; font-weight: 600; color: var(--amber);
+    margin-bottom: 20px;
+  }
+  .hero h1 {
+    font-family: 'Cormorant Garamond', Georgia, serif;
+    font-weight: 600;
+    font-size: clamp(40px, 7vw, 72px);
+    line-height: 1.05;
+    margin: 0 0 20px;
+    color: var(--on-forest);
+    letter-spacing: -0.01em;
+  }
+  .hero h1 .accent { color: var(--amber); font-style: italic; }
+  .hero .lede {
+    max-width: 620px; margin: 0 auto 40px;
+    font-size: 19px; color: rgba(244, 241, 234, 0.82);
+    line-height: 1.55;
+  }
+
+  /* Hero artwork */
+  .hero-art {
+    max-width: 320px; width: 70%; height: auto;
+    margin: 0 auto 32px; display: block;
+    border-radius: 28px;
+    box-shadow: 0 20px 60px rgba(0, 0, 0, 0.35);
+  }
+  @media (max-width: 600px) { .hero-art { max-width: 260px; width: 75%; } }
+
+  /* App Store badge */
+  .app-store-cta {
+    display: flex; justify-content: center; align-items: center;
+    gap: 16px; flex-wrap: wrap;
+  }
+  .app-store-cta a { display: inline-block; transition: transform 0.15s, opacity 0.15s; }
+  .app-store-cta a:hover { transform: translateY(-2px); opacity: 0.92; text-decoration: none; }
+  .app-store-cta img { height: 56px; width: auto; display: block; }
+  .hero .fineprint {
+    margin-top: 16px; font-size: 13px; color: rgba(244, 241, 234, 0.55);
+  }
+
+  /* Section base */
+  section { padding: 88px 0; }
+  section h2 {
+    font-family: 'Cormorant Garamond', Georgia, serif;
+    font-weight: 600;
+    font-size: clamp(32px, 4vw, 44px);
+    line-height: 1.15; margin: 0 0 16px;
+    color: var(--forest);
+    letter-spacing: -0.01em;
+  }
+  section .intro {
+    max-width: 620px; margin: 0 0 48px;
+    font-size: 18px; color: var(--warm-gray);
+  }
+
+  /* Features grid */
+  .features {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 32px;
+  }
+  @media (max-width: 760px) { .features { grid-template-columns: 1fr; gap: 24px; } }
+  .feature {
+    background: white;
+    border: 1px solid var(--hairline);
+    border-radius: 16px;
+    padding: 28px;
+  }
+  .feature .icon {
+    width: 40px; height: 40px;
+    border-radius: 10px;
+    background: var(--cream);
+    color: var(--paprika);
+    display: flex; align-items: center; justify-content: center;
+    font-size: 22px;
+    margin-bottom: 16px;
+  }
+  .feature h3 {
+    font-family: 'Cormorant Garamond', Georgia, serif;
+    font-weight: 600; font-size: 24px;
+    margin: 0 0 8px; color: var(--forest);
+  }
+  .feature p { margin: 0; color: var(--warm-gray); font-size: 16px; }
+
+  /* Privacy section */
+  .privacy {
+    background: var(--cream);
+    border-top: 1px solid var(--hairline);
+    border-bottom: 1px solid var(--hairline);
+  }
+  .privacy h2 { color: var(--forest); }
+  .privacy .checks {
+    display: grid; grid-template-columns: repeat(2, 1fr);
+    gap: 16px 32px; max-width: 720px;
+    margin-top: 8px;
+  }
+  @media (max-width: 600px) { .privacy .checks { grid-template-columns: 1fr; } }
+  .privacy .check {
+    display: flex; align-items: center; gap: 12px;
+    font-size: 17px; color: var(--forest);
+  }
+  .privacy .check::before {
+    content: '✓';
+    width: 28px; height: 28px;
+    flex: 0 0 28px;
+    border-radius: 50%;
+    background: var(--forest);
+    color: var(--amber);
+    display: flex; align-items: center; justify-content: center;
+    font-weight: 600; font-size: 14px;
+  }
+
+  /* Pricing */
+  .pricing-card {
+    max-width: 480px;
+    background: white;
+    border: 1px solid var(--hairline);
+    border-radius: 20px;
+    padding: 36px;
+    box-shadow: 0 10px 40px rgba(31, 64, 48, 0.06);
+  }
+  .pricing-card .tier {
+    text-transform: uppercase; letter-spacing: 0.16em;
+    font-size: 12px; font-weight: 600; color: var(--paprika);
+    margin-bottom: 12px;
+  }
+  .pricing-card .price {
+    font-family: 'Cormorant Garamond', Georgia, serif;
+    font-size: 56px; font-weight: 600; color: var(--forest);
+    line-height: 1; margin: 0 0 4px;
+  }
+  .pricing-card .price small {
+    font-family: 'Inter', sans-serif;
+    font-size: 17px; font-weight: 400; color: var(--warm-gray);
+  }
+  .pricing-card .alt-price { font-size: 15px; color: var(--warm-gray); margin-bottom: 20px; }
+  .pricing-card ul {
+    list-style: none; padding: 0; margin: 24px 0 0;
+    border-top: 1px solid var(--hairline); padding-top: 20px;
+  }
+  .pricing-card ul li {
+    padding: 8px 0; font-size: 16px; color: var(--forest);
+    display: flex; align-items: flex-start; gap: 12px;
+  }
+  .pricing-card ul li::before {
+    content: '·'; color: var(--amber-deep); font-weight: 700;
+    flex: 0 0 8px;
+  }
+
+  /* FAQ */
+  .faq details {
+    border-bottom: 1px solid var(--hairline);
+    padding: 20px 0;
+  }
+  .faq details:first-of-type { border-top: 1px solid var(--hairline); }
+  .faq summary {
+    font-family: 'Cormorant Garamond', Georgia, serif;
+    font-size: 22px; font-weight: 600; color: var(--forest);
+    cursor: pointer; list-style: none;
+    display: flex; justify-content: space-between; align-items: center;
+    gap: 16px;
+  }
+  .faq summary::-webkit-details-marker { display: none; }
+  .faq summary::after {
+    content: '+';
+    color: var(--paprika); font-size: 28px; font-weight: 400;
+    transition: transform 0.2s;
+  }
+  .faq details[open] summary::after { content: '−'; }
+  .faq details p { color: var(--warm-gray); margin: 12px 0 0; font-size: 16px; }
+
+  /* Footer */
+  footer {
+    background: var(--forest-deep);
+    color: rgba(244, 241, 234, 0.7);
+    padding: 48px 0 40px;
+    font-size: 14px;
+  }
+  footer .row {
+    display: flex; justify-content: space-between; gap: 24px; flex-wrap: wrap;
+  }
+  footer a { color: var(--amber); }
+  footer .made { color: rgba(244, 241, 234, 0.5); }
+</style>
+</head>
+<body>
+
+<nav class="top">
+  <div class="wrap row">
+    <a class="brand" href="/">Meal<span class="accent"> Curate</span></a>
+    <ul>
+      <li><a href="#features">Features</a></li>
+      <li><a href="#privacy">Privacy</a></li>
+      <li><a href="#pricing">Pricing</a></li>
+      <li><a href="#faq">FAQ</a></li>
+      <li><a href="support.html">Support</a></li>
+    </ul>
+  </div>
+</nav>
+
+<header class="hero">
+  <div class="wrap">
+    <div class="eyebrow">Now on the App Store · iOS</div>
+    <h1>Your pantry knows<br/>what's <span class="accent">for dinner</span>.</h1>
+    <p class="lede">A private meal planner with 524 hand-curated recipes, pantry-aware suggestions, and no account required. Built for home cooks who want to use what they already have.</p>
+
+    <img class="hero-art" src="hero-logo.jpg" alt="Meal Curate — meal planner and smart shopping list" />
+
+    <div class="app-store-cta">
+      <a href="https://apps.apple.com/us/app/meal-curate/id6760915712" aria-label="Download Meal Curate on the App Store">
+        <img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83" alt="Download on the App Store" />
+      </a>
+    </div>
+    <p class="fineprint">Free to download. Pro features include a 30-day free trial.</p>
+  </div>
+</header>
+
+<section id="features">
+  <div class="wrap">
+    <h2>What it does.</h2>
+    <p class="intro">Three things, done well. No feed, no social layer, no AI hype.</p>
+
+    <div class="features">
+      <div class="feature">
+        <div class="icon">⌘</div>
+        <h3>Suggested for you</h3>
+        <p>Recipes ranked by how many ingredients are already in your pantry. See exactly what you'd need to buy for tonight.</p>
+      </div>
+      <div class="feature">
+        <div class="icon">𝍇</div>
+        <h3>524 originals</h3>
+        <p>Every recipe written for the app — Mediterranean, Asian, Latin, Middle Eastern. Vegan, keto, gluten-free, high-protein. New ones added monthly.</p>
+      </div>
+      <div class="feature">
+        <div class="icon">⊞</div>
+        <h3>Plan in five minutes</h3>
+        <p>Drag recipes to days. The shopping list builds itself. Share to Messages, Mail, or Notes — no third-party account.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="privacy" class="privacy">
+  <div class="wrap">
+    <h2>Private by default.</h2>
+    <p class="intro">Your meal plan, your pantry, your recipes — they live on your device. We never see them.</p>
+
+    <div class="checks">
+      <div class="check">Local-only data</div>
+      <div class="check">No account required</div>
+      <div class="check">No tracking, no analytics</div>
+      <div class="check">No third-party SDKs</div>
+      <div class="check">HTTPS for optional sync</div>
+      <div class="check">No ads, ever</div>
+    </div>
+  </div>
+</section>
+
+<section id="pricing">
+  <div class="wrap">
+    <h2>Pricing.</h2>
+    <p class="intro">Try Pro free for 30 days. After that, $2.99/month or $39.99/year. Cancel anytime in Settings → Subscriptions.</p>
+
+    <div class="pricing-card">
+      <div class="tier">Pro</div>
+      <p class="price">$2.99<small> / month</small></p>
+      <p class="alt-price">or $39.99 / year. 30-day free trial.</p>
+      <ul>
+        <li>Suggested for You — pantry-aware ranking</li>
+        <li>Unlimited recipes you add yourself</li>
+        <li>Paste any recipe URL to import it</li>
+        <li>Share your shopping list to any app</li>
+        <li>Monthly recipe library updates</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<section id="faq" class="faq">
+  <div class="wrap" style="max-width: 760px;">
+    <h2>Questions.</h2>
+
+    <details>
+      <summary>Do I need an account?</summary>
+      <p>No. Open the app and start. Your data stays on your device. There's no cloud login, no signup form, no email verification.</p>
+    </details>
+
+    <details>
+      <summary>Does it work offline?</summary>
+      <p>Yes. The 524 starter recipes are bundled with the app. Pantry, meal plan, shopping list — all local. The only thing that needs internet is optional URL recipe import.</p>
+    </details>
+
+    <details>
+      <summary>What's the free tier?</summary>
+      <p>Browse all 524 recipes. Build a meal plan. Track your pantry. Use the auto-generated shopping list. Save up to 5 of your own recipes. Pro adds pantry-aware ranking, unlimited recipes, URL import, and shopping list sharing.</p>
+    </details>
+
+    <details>
+      <summary>How does it compare to Mealime, Paprika, Plan to Eat?</summary>
+      <p>Mealime requires an account before showing a recipe. Paprika is excellent but doesn't know what's in your pantry. Plan to Eat is $39/year and built for power users. Meal Curate is for the cook who wants to open the app and see what they can make tonight, without signing up for anything.</p>
+    </details>
+
+    <details>
+      <summary>Where can I get it?</summary>
+      <p>Meal Curate is live on the iOS App Store. <a href="https://apps.apple.com/us/app/meal-curate/id6760915712">Download it here</a>.</p>
+    </details>
+
+    <details>
+      <summary>Will there be Android, iPad, or Mac versions?</summary>
+      <p>iPad and Mac launch with iOS — same app, universal binary. Android is not on the roadmap.</p>
+    </details>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap row">
+    <div>
+      <strong style="color: var(--on-forest); font-family: 'Cormorant Garamond', Georgia, serif; font-size: 18px;">Meal Curate</strong><br/>
+      <span class="made">Made solo. iOS only.</span>
+    </div>
+    <div style="display: flex; gap: 24px; align-items: center; flex-wrap: wrap;">
+      <a href="support.html">Support</a>
+      <a href="privacy.html">Privacy</a>
+      <a href="mailto:mealcurate@gmail.com">Contact</a>
+    </div>
+  </div>
+</footer>
+
+</body>
+</html>
